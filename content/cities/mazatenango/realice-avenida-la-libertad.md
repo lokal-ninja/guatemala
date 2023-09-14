@@ -1,5 +1,5 @@
 ---
 title: "Realice"
-url: /mazatenango/realice/
+url: /mazatenango/realice-avenida-la-libertad/
 shop: prestamista
 ---

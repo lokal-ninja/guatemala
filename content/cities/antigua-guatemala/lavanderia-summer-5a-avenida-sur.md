@@ -1,5 +1,5 @@
 ---
 title: "Lavanderia Summer"
-url: /antigua-guatemala/lavanderia-summer/
+url: /antigua-guatemala/lavanderia-summer-5a-avenida-sur/
 shop: lavandería
 ---

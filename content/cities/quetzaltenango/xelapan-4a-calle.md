@@ -1,5 +1,5 @@
 ---
 title: "Xelapan"
-url: /quetzaltenango/xelapan/
+url: /quetzaltenango/xelapan-4a-calle/
 shop: panadería
 ---

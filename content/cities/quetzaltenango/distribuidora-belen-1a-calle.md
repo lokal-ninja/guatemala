@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Belen"
-url: /quetzaltenango/distribuidora-belen/
+url: /quetzaltenango/distribuidora-belen-1a-calle/
 shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
-url: /quetzaltenango/sherwin-williams/
+url: /quetzaltenango/sherwin-williams-2/
 shop: pintura
 ---

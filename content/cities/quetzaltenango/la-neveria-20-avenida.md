@@ -1,5 +1,5 @@
 ---
 title: "La Nevería"
-url: /quetzaltenango/la-neveria/
+url: /quetzaltenango/la-neveria-20-avenida/
 shop: general
 ---

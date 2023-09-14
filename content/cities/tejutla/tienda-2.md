@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
-url: /tejutla/tienda/
+url: /tejutla/tienda-2/
 shop: general
 ---

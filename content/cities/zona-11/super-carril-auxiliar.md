@@ -1,5 +1,5 @@
 ---
 title: "Super"
-url: /zona-11/super/
+url: /zona-11/super-carril-auxiliar/
 shop: comodidad
 ---

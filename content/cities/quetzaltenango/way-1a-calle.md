@@ -1,5 +1,5 @@
 ---
 title: "Way"
-url: /quetzaltenango/way/
+url: /quetzaltenango/way-1a-calle/
 shop: supermercado
 ---

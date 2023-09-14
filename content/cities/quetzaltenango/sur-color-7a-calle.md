@@ -1,5 +1,5 @@
 ---
 title: "Sur Color"
-url: /quetzaltenango/sur-color/
+url: /quetzaltenango/sur-color-7a-calle/
 shop: pintura
 ---

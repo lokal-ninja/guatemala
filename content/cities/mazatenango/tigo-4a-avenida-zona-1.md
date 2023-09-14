@@ -1,5 +1,5 @@
 ---
 title: "Tigo"
-url: /mazatenango/tigo/
+url: /mazatenango/tigo-4a-avenida-zona-1/
 shop: general
 ---

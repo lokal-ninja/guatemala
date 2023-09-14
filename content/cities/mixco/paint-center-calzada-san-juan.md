@@ -1,5 +1,5 @@
 ---
 title: "Paint Center"
-url: /mixco/paint-center/
+url: /mixco/paint-center-calzada-san-juan/
 shop: pintura
 ---

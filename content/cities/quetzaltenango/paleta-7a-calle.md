@@ -1,5 +1,5 @@
 ---
 title: "Paleta"
-url: /quetzaltenango/paleta/
+url: /quetzaltenango/paleta-7a-calle/
 shop: pintura
 ---

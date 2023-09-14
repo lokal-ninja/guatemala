@@ -1,5 +1,5 @@
 ---
 title: "CHOOghurt"
-url: /quetzaltenango/chooghurt/
+url: /quetzaltenango/chooghurt-14-avenida/
 shop: general
 ---

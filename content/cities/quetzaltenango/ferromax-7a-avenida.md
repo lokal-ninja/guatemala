@@ -1,5 +1,5 @@
 ---
 title: "Ferromax"
-url: /quetzaltenango/ferromax/
+url: /quetzaltenango/ferromax-7a-avenida/
 shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
-url: /quetzaltenango/elektra/
+url: /quetzaltenango/elektra-avenida-las-americas/
 shop: electrónica
 ---
