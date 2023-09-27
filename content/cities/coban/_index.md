@@ -1,6 +1,6 @@
 ---
 title: Cobán
 url: /coban/
-latitude: 15.473
-longitude: -90.405
+latitude: 15.47
+longitude: -90.374
 ---
