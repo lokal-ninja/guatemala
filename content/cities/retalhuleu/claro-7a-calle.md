@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /retalhuleu/claro-6a-calle-zona-1/
+url: /retalhuleu/claro-7a-calle/
 shop: teléfono móvil
 ---
