@@ -1,5 +1,5 @@
 ---
 title: "iShop"
 url: /guatemala/ishop/
-shop: radiotecnia
+shop: ordenador
 ---
