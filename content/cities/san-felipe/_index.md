@@ -1,6 +1,6 @@
 ---
 title: San Felipe
 url: /san-felipe/
-latitude: 14.622
-longitude: -91.596
+latitude: 14.623
+longitude: -91.595
 ---
