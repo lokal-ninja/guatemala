@@ -1,6 +1,6 @@
 ---
 title: Escuintla
 url: /escuintla/
-latitude: 14.298
-longitude: -90.786
+latitude: 14.297
+longitude: -90.785
 ---
