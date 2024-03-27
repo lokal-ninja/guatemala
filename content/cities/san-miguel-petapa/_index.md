@@ -1,6 +1,6 @@
 ---
 title: San Miguel Petapa
 url: /san-miguel-petapa/
-latitude: 14.498
-longitude: -90.557
+latitude: 14.5
+longitude: -90.558
 ---
