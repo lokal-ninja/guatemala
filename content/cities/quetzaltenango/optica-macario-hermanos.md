@@ -1,5 +1,5 @@
 ---
-title: "Optica Macario Hermanos"
+title: "Óptica Macario Hermanos"
 url: /quetzaltenango/optica-macario-hermanos/
 shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Lavanderia Super Goats"
+title: "Lavandería Super Goats"
 url: /quetzaltenango/lavanderia-super-goats/
 shop: lavandería
 ---

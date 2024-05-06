@@ -1,5 +1,5 @@
 ---
-title: "Tienda Libreria Belen"
+title: "Tienda Librería Belén"
 url: /quetzaltenango/tienda-libreria-belen/
 shop: libros
 ---

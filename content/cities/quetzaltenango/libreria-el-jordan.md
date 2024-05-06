@@ -1,5 +1,5 @@
 ---
-title: "Libreria El Jordan"
+title: "Librería El Jordán"
 url: /quetzaltenango/libreria-el-jordan/
 shop: material de oficina
 ---

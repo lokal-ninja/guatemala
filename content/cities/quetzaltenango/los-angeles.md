@@ -1,5 +1,5 @@
 ---
-title: "Los Angeles"
+title: "Los Ángeles"
 url: /quetzaltenango/los-angeles/
 shop: panadería
 ---
