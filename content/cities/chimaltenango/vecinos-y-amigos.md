@@ -1,5 +1,5 @@
 ---
-title: "VEcinos y Amigos"
+title: "Vecinos y Amigos"
 url: /chimaltenango/vecinos-y-amigos/
 shop: libros
 ---

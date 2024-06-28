@@ -1,6 +1,6 @@
 ---
 title: Villa Nueva
 url: /villa-nueva/
-latitude: 14.524
-longitude: -90.588
+latitude: 14.517
+longitude: -90.579
 ---
