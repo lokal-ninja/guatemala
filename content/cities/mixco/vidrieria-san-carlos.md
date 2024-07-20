@@ -1,5 +1,5 @@
 ---
-title: "Vidrieria San Carlos"
+title: "Vidriería San Carlos"
 url: /mixco/vidrieria-san-carlos/
 shop: general
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Panadería Y Pastelería Velasquez"
+title: "Panadería Y Pastelería Velásquez"
 url: /mixco/panaderia-y-pasteleria-velasquez/
 shop: panadería
 ---

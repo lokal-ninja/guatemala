@@ -1,5 +1,5 @@
 ---
-title: "Ferreteria La Fiocha"
+title: "Ferretería La Fiocha"
 url: /guatemala-city/ferreteria-la-fiocha/
 shop: hardware
 ---

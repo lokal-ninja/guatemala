@@ -1,5 +1,5 @@
 ---
-title: "Deposito El Eden"
+title: "Depósito El Edén"
 url: /mixco/deposito-el-eden/
 shop: general
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Servidora Optica"
+title: "Servidora Óptica"
 url: /mixco/servidora-optica/
 shop: óptico
 ---

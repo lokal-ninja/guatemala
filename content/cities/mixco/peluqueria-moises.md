@@ -1,5 +1,5 @@
 ---
-title: "Peluqueria Moises"
+title: "Peluquería Moisés"
 url: /mixco/peluqueria-moises/
 shop: peluquería
 ---
