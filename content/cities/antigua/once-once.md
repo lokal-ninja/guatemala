@@ -1,5 +1,5 @@
 ---
 title: "Once:Once"
-url: /antigua-guatemala/once-once/
+url: /antigua/once-once/
 shop: agencia de viajes
 ---
