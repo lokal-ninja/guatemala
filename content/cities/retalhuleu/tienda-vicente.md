@@ -1,5 +1,5 @@
 ---
 title: "Tienda Vicente"
 url: /retalhuleu/tienda-vicente/
-shop: general
+shop: Allgemein
 ---

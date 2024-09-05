@@ -1,5 +1,5 @@
 ---
 title: "Uital"
 url: /mazatenango/uital/
-shop: neumáticos
+shop: Reifen
 ---

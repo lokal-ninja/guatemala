@@ -1,5 +1,5 @@
 ---
 title: "Agropro"
 url: /escuintla/agropro/
-shop: granja
+shop: Hofladen
 ---

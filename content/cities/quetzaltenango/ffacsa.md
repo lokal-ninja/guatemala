@@ -1,5 +1,5 @@
 ---
 title: "FFACSA"
 url: /quetzaltenango/ffacsa/
-shop: hardware
+shop: Eisenwaren
 ---

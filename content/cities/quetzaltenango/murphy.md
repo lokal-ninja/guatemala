@@ -1,5 +1,5 @@
 ---
 title: "Murphy"
 url: /quetzaltenango/murphy/
-shop: zapatos
+shop: Schuhe
 ---

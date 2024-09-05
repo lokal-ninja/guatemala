@@ -1,5 +1,5 @@
 ---
 title: "Mozart"
 url: /mixco/mozart/
-shop: general
+shop: Allgemein
 ---

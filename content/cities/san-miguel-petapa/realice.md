@@ -1,5 +1,5 @@
 ---
 title: "Realice"
 url: /san-miguel-petapa/realice/
-shop: prestamista
+shop: Leiher
 ---

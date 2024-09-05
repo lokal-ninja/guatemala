@@ -1,5 +1,5 @@
 ---
 title: "La Reposteria"
 url: /antigua-guatemala/la-reposteria/
-shop: panadería
+shop: Bäckerei
 ---

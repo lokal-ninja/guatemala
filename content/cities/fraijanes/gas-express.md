@@ -1,5 +1,5 @@
 ---
 title: "Gas Express"
 url: /fraijanes/gas-express/
-shop: gas
+shop: Gasflaschen
 ---

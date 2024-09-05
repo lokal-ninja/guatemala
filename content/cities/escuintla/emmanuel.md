@@ -1,5 +1,5 @@
 ---
 title: "Emmanuel"
 url: /escuintla/emmanuel/
-shop: neumáticos
+shop: Reifen
 ---

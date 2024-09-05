@@ -1,5 +1,5 @@
 ---
 title: "Isopan"
 url: /fraijanes/isopan/
-shop: panadería
+shop: Bäckerei
 ---

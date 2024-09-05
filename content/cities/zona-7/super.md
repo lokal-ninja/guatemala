@@ -1,5 +1,5 @@
 ---
 title: "Super"
 url: /zona-7/super/
-shop: comodidad
+shop: Lebensmittel
 ---

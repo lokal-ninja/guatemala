@@ -1,5 +1,5 @@
 ---
 title: "CompuGráfica"
 url: /quetzaltenango/compugrafica/
-shop: copyshop
+shop: Kopieren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Estrada"
 url: /retalhuleu/estrada/
-shop: general
+shop: Allgemein
 ---

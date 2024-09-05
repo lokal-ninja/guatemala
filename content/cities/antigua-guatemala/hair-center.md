@@ -1,5 +1,5 @@
 ---
 title: "Hair Center"
 url: /antigua-guatemala/hair-center/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Megapaca"
 url: /escuintla/megapaca/
-shop: ropa
+shop: Kleidung
 ---

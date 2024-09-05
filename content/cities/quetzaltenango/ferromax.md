@@ -1,5 +1,5 @@
 ---
 title: "Ferromax"
 url: /quetzaltenango/ferromax/
-shop: hardware
+shop: Eisenwaren
 ---

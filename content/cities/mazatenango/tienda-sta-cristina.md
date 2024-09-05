@@ -1,5 +1,5 @@
 ---
 title: "Tienda Sta. Cristina"
 url: /mazatenango/tienda-sta-cristina/
-shop: comodidad
+shop: Lebensmittel
 ---

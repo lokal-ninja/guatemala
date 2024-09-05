@@ -1,5 +1,5 @@
 ---
 title: "Super Carniceria"
 url: /villa-canales/super-carniceria/
-shop: carnicero
+shop: Metzgerei
 ---

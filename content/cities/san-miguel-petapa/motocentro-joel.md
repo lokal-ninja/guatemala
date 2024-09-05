@@ -1,5 +1,5 @@
 ---
 title: "Motocentro Joel"
 url: /san-miguel-petapa/motocentro-joel/
-shop: motocicleta
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Alex"
 url: /quetzaltenango/ferreteria-alex/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ninoshka's"
 url: /antigua-guatemala/ninoshkas/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bajaj"
 url: /mazatenango/bajaj/
-shop: motocicleta
+shop: Motorrad
 ---

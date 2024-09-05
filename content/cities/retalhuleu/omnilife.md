@@ -1,5 +1,5 @@
 ---
 title: "OmniLife"
 url: /retalhuleu/omnilife/
-shop: general
+shop: Allgemein
 ---

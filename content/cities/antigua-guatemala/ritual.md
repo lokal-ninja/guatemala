@@ -1,5 +1,5 @@
 ---
 title: "Ritual"
 url: /antigua-guatemala/ritual/
-shop: general
+shop: Allgemein
 ---

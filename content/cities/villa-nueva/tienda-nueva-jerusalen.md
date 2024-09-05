@@ -1,5 +1,5 @@
 ---
 title: "Tienda Nueva Jerusalen"
 url: /villa-nueva/tienda-nueva-jerusalen/
-shop: quiosco
+shop: Kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tubofort"
 url: /quetzaltenango/tubofort/
-shop: general
+shop: Allgemein
 ---

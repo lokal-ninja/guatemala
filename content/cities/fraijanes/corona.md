@@ -1,5 +1,5 @@
 ---
 title: "Corona"
 url: /fraijanes/corona/
-shop: pintura
+shop: Farben
 ---

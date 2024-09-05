@@ -1,5 +1,5 @@
 ---
 title: "Saraita"
 url: /mixco/saraita/
-shop: general
+shop: Allgemein
 ---

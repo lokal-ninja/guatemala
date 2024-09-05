@@ -1,5 +1,5 @@
 ---
 title: "beau"
 url: /antigua-guatemala/beau/
-shop: cosméticos
+shop: Kosmetik
 ---

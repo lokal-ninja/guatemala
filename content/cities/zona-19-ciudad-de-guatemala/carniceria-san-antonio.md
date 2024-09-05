@@ -1,5 +1,5 @@
 ---
 title: "Carniceria San Antonio"
 url: /zona-19-ciudad-de-guatemala/carniceria-san-antonio/
-shop: carnicero
+shop: Metzgerei
 ---

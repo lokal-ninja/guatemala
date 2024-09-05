@@ -1,5 +1,5 @@
 ---
 title: "Tienda Estrellita"
 url: /san-jose-pinula/tienda-estrellita/
-shop: general
+shop: Allgemein
 ---

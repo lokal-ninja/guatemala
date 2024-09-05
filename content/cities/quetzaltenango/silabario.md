@@ -1,5 +1,5 @@
 ---
 title: "Silabarío"
 url: /quetzaltenango/silabario/
-shop: general
+shop: Allgemein
 ---

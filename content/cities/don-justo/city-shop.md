@@ -1,5 +1,5 @@
 ---
 title: "City Shop"
 url: /don-justo/city-shop/
-shop: general
+shop: Allgemein
 ---

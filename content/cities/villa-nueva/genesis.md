@@ -1,5 +1,5 @@
 ---
 title: "Genesis"
 url: /villa-nueva/genesis/
-shop: motocicleta
+shop: Motorrad
 ---

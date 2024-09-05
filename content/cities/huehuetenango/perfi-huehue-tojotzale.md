@@ -1,5 +1,5 @@
 ---
 title: "Perfi Huehue Tojotzale"
 url: /huehuetenango/perfi-huehue-tojotzale/
-shop: hardware
+shop: Eisenwaren
 ---

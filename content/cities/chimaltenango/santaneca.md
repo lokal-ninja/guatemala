@@ -1,5 +1,5 @@
 ---
 title: "Santaneca"
 url: /chimaltenango/santaneca/
-shop: panadería
+shop: Bäckerei
 ---

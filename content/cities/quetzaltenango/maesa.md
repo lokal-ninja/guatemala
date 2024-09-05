@@ -1,5 +1,5 @@
 ---
 title: "MAESA"
 url: /quetzaltenango/maesa/
-shop: trofeo
+shop: Pokal
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lilian's Boutique"
 url: /quetzaltenango/lilians-boutique/
-shop: tienda
+shop: Modehaus
 ---

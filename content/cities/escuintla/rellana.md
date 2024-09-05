@@ -1,5 +1,5 @@
 ---
 title: "Rellana"
 url: /escuintla/rellana/
-shop: quiosco
+shop: Kiosk
 ---

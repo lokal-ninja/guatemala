@@ -1,5 +1,5 @@
 ---
 title: "RadioShack"
 url: /retalhuleu/radioshack/
-shop: electrónica
+shop: Elektronik
 ---

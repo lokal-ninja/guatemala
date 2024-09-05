@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Rojas"
 url: /quetzaltenango/peluqueria-rojas/
-shop: cosméticos
+shop: Kosmetik
 ---

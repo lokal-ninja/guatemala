@@ -1,5 +1,5 @@
 ---
 title: "Internet Computadoras Accesorios"
 url: /retalhuleu/internet-computadoras-accesorios/
-shop: electrónica
+shop: Elektronik
 ---

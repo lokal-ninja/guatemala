@@ -1,5 +1,5 @@
 ---
 title: "Avon"
 url: /quetzaltenango/avon/
-shop: cosméticos
+shop: Kosmetik
 ---

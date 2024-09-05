@@ -1,5 +1,5 @@
 ---
 title: "Dulce Piñata"
 url: /quetzaltenango/dulce-pinata/
-shop: general
+shop: Allgemein
 ---

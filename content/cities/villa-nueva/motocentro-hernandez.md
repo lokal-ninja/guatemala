@@ -1,5 +1,5 @@
 ---
 title: "Motocentro Hernandez"
 url: /villa-nueva/motocentro-hernandez/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Librería Yuli"
 url: /zona-19-ciudad-de-guatemala/libreria-yuli/
-shop: material de oficina
+shop: Schreibwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Isabel"
 url: /escuintla/isabel/
-shop: peluquería
+shop: Friseur
 ---

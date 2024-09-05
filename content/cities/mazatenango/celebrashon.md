@@ -1,5 +1,5 @@
 ---
 title: "Celebrashon"
 url: /mazatenango/celebrashon/
-shop: panadería
+shop: Bäckerei
 ---

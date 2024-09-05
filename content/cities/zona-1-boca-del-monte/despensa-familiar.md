@@ -1,5 +1,5 @@
 ---
 title: "Despensa Familiar"
 url: /zona-1-boca-del-monte/despensa-familiar/
-shop: supermercado
+shop: Supermarkt
 ---

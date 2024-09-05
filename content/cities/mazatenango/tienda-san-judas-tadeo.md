@@ -1,5 +1,5 @@
 ---
 title: "Tienda San Judas Tadeo"
 url: /mazatenango/tienda-san-judas-tadeo/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fantasy"
 url: /retalhuleu/fantasy/
-shop: general
+shop: Allgemein
 ---

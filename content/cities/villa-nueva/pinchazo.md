@@ -1,5 +1,5 @@
 ---
 title: "Pinchazo"
 url: /villa-nueva/pinchazo/
-shop: neumáticos
+shop: Reifen
 ---

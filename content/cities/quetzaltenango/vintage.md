@@ -1,5 +1,5 @@
 ---
 title: "Vintage"
 url: /quetzaltenango/vintage/
-shop: cosméticos
+shop: Kosmetik
 ---

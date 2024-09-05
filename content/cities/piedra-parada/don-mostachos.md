@@ -1,5 +1,5 @@
 ---
 title: "Don Mostacho’s"
 url: /piedra-parada/don-mostachos/
-shop: peluquería
+shop: Friseur
 ---

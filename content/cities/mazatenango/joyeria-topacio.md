@@ -1,5 +1,5 @@
 ---
 title: "Joyeria Topacio"
 url: /mazatenango/joyeria-topacio/
-shop: joyería
+shop: Schmuck
 ---

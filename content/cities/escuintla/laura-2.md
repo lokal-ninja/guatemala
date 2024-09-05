@@ -1,5 +1,5 @@
 ---
 title: "Laura 2"
 url: /escuintla/laura-2/
-shop: comodidad
+shop: Lebensmittel
 ---

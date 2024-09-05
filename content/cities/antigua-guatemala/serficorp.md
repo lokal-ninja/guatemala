@@ -1,5 +1,5 @@
 ---
 title: "Serficorp"
 url: /antigua-guatemala/serficorp/
-shop: prestamista
+shop: Leiher
 ---

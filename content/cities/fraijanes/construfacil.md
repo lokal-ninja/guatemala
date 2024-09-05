@@ -1,5 +1,5 @@
 ---
 title: "Construfácil"
 url: /fraijanes/construfacil/
-shop: comercio
+shop: Baustoffe
 ---

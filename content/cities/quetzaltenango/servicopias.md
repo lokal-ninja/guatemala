@@ -1,5 +1,5 @@
 ---
 title: "Servicopias"
 url: /quetzaltenango/servicopias/
-shop: copyshop
+shop: Kopieren
 ---

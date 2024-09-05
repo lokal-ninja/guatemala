@@ -1,5 +1,5 @@
 ---
 title: "Pinchazo"
 url: /chichicastenango/pinchazo/
-shop: neumáticos
+shop: Reifen
 ---

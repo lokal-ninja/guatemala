@@ -1,5 +1,5 @@
 ---
 title: "Aceitera Malin"
 url: /villa-canales/aceitera-malin/
-shop: general
+shop: Allgemein
 ---

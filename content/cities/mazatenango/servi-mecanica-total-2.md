@@ -1,5 +1,5 @@
 ---
 title: "Servi Mecanica Total #2"
 url: /mazatenango/servi-mecanica-total-2/
-shop: reparación de automóviles
+shop: Autowerkstatt
 ---

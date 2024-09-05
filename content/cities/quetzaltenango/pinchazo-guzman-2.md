@@ -1,5 +1,5 @@
 ---
 title: "Pinchazo Guzman 2"
 url: /quetzaltenango/pinchazo-guzman-2/
-shop: neumáticos
+shop: Reifen
 ---

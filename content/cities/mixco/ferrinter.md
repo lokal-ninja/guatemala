@@ -1,5 +1,5 @@
 ---
 title: "Ferrinter"
 url: /mixco/ferrinter/
-shop: hardware
+shop: Eisenwaren
 ---

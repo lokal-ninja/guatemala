@@ -1,5 +1,5 @@
 ---
 title: "Aceitera Y Repuestos"
 url: /retalhuleu/aceitera-y-repuestos/
-shop: motocicleta
+shop: Motorrad
 ---

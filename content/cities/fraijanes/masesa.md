@@ -1,5 +1,5 @@
 ---
 title: "Masesa"
 url: /fraijanes/masesa/
-shop: motocicleta
+shop: Motorrad
 ---

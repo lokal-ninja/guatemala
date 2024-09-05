@@ -1,5 +1,5 @@
 ---
 title: "Lavanderia"
 url: /quetzaltenango/lavanderia/
-shop: lavandería
+shop: Wäscherei
 ---

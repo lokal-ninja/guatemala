@@ -1,5 +1,5 @@
 ---
 title: "Tienda Emanuel"
 url: /zona-19-ciudad-de-guatemala/tienda-emanuel/
-shop: general
+shop: Allgemein
 ---

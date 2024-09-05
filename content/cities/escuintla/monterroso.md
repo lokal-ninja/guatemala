@@ -1,5 +1,5 @@
 ---
 title: "Montérroso"
 url: /escuintla/monterroso/
-shop: coche
+shop: Autohaus
 ---

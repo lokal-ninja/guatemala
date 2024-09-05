@@ -1,5 +1,5 @@
 ---
 title: "Candelaria"
 url: /villa-canales/candelaria/
-shop: frutería
+shop: Gemüse & Obst
 ---

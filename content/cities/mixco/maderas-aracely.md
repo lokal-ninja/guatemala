@@ -1,5 +1,5 @@
 ---
 title: "Maderas Aracely"
 url: /mixco/maderas-aracely/
-shop: comercio
+shop: Baustoffe
 ---

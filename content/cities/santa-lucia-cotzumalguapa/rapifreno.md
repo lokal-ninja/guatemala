@@ -1,5 +1,5 @@
 ---
 title: "Rapifreno"
 url: /santa-lucia-cotzumalguapa/rapifreno/
-shop: neumáticos
+shop: Reifen
 ---

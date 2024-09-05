@@ -1,5 +1,5 @@
 ---
 title: "Desechables La Economía"
 url: /santa-catarina-pinula/desechables-la-economia/
-shop: fiesta
+shop: Partyzubehör
 ---

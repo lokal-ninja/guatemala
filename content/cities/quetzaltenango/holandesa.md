@@ -1,5 +1,5 @@
 ---
 title: "Holandesa"
 url: /quetzaltenango/holandesa/
-shop: panadería
+shop: Bäckerei
 ---

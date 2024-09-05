@@ -1,5 +1,5 @@
 ---
 title: "Agroservicio"
 url: /tejutla/agroservicio/
-shop: general
+shop: Allgemein
 ---

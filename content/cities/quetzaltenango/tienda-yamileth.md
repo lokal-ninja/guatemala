@@ -1,5 +1,5 @@
 ---
 title: "Tienda Yamileth"
 url: /quetzaltenango/tienda-yamileth/
-shop: general
+shop: Allgemein
 ---

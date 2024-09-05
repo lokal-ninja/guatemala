@@ -1,5 +1,5 @@
 ---
 title: "Castrofer"
 url: /quetzaltenango/castrofer/
-shop: general
+shop: Allgemein
 ---

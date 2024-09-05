@@ -1,5 +1,5 @@
 ---
 title: "Abarroteria Esquipulas"
 url: /villa-canales/abarroteria-esquipulas/
-shop: comodidad
+shop: Lebensmittel
 ---

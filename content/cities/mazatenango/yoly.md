@@ -1,5 +1,5 @@
 ---
 title: "Yoly"
 url: /mazatenango/yoly/
-shop: ropa
+shop: Kleidung
 ---

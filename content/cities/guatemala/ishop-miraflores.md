@@ -1,5 +1,5 @@
 ---
 title: "iShop Miraflores"
 url: /guatemala/ishop-miraflores/
-shop: ordenador
+shop: Computer
 ---

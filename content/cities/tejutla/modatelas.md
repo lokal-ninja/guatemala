@@ -1,5 +1,5 @@
 ---
 title: "Modatelas"
 url: /tejutla/modatelas/
-shop: tela
+shop: Textil
 ---

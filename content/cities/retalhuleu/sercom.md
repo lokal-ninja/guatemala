@@ -1,5 +1,5 @@
 ---
 title: "Sercom"
 url: /retalhuleu/sercom/
-shop: general
+shop: Allgemein
 ---

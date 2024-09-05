@@ -1,5 +1,5 @@
 ---
 title: "Hogar Económico"
 url: /san-jose-pinula/hogar-economico/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Suiza"
 url: /quetzaltenango/suiza/
-shop: joyería
+shop: Schmuck
 ---

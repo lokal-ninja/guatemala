@@ -1,5 +1,5 @@
 ---
 title: "Mas y Mas"
 url: /quetzaltenango/mas-y-mas/
-shop: general
+shop: Allgemein
 ---

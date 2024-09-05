@@ -1,5 +1,5 @@
 ---
 title: "Peletería"
 url: /quetzaltenango/peleteria/
-shop: general
+shop: Allgemein
 ---

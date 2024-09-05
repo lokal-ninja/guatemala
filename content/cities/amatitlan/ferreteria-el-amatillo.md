@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria El Amatillo"
 url: /amatitlan/ferreteria-el-amatillo/
-shop: hardware
+shop: Eisenwaren
 ---

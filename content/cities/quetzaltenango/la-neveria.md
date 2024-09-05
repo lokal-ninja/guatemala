@@ -1,5 +1,5 @@
 ---
 title: "La Nevería"
 url: /quetzaltenango/la-neveria/
-shop: helado
+shop: Eisprodukte
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aerobike"
 url: /quetzaltenango/aerobike/
-shop: bicicleta
+shop: Fahrrad
 ---

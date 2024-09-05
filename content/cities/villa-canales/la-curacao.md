@@ -1,5 +1,5 @@
 ---
 title: "La Curacao"
 url: /villa-canales/la-curacao/
-shop: electrónica
+shop: Elektronik
 ---

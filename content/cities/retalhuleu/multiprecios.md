@@ -1,5 +1,5 @@
 ---
 title: "Multiprecios"
 url: /retalhuleu/multiprecios/
-shop: comodidad
+shop: Lebensmittel
 ---

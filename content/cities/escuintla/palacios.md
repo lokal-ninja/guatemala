@@ -1,5 +1,5 @@
 ---
 title: "Palacios"
 url: /escuintla/palacios/
-shop: general
+shop: Allgemein
 ---

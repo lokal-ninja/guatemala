@@ -1,5 +1,5 @@
 ---
 title: "Tienda Alan"
 url: /mazatenango/tienda-alan/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Tienda Lucky"
 url: /antigua-guatemala/super-tienda-lucky/
-shop: general
+shop: Allgemein
 ---

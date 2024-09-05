@@ -1,5 +1,5 @@
 ---
 title: "Intelaf"
 url: /guatemala/intelaf/
-shop: ordenador
+shop: Computer
 ---

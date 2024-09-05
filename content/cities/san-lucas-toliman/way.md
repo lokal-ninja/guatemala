@@ -1,5 +1,5 @@
 ---
 title: "Way"
 url: /san-lucas-toliman/way/
-shop: electrónica
+shop: Elektronik
 ---

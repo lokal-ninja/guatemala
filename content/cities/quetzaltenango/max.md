@@ -1,5 +1,5 @@
 ---
 title: "Max"
 url: /quetzaltenango/max/
-shop: electrónica
+shop: Elektronik
 ---

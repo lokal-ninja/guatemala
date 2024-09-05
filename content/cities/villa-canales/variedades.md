@@ -1,5 +1,5 @@
 ---
 title: "Variedades"
 url: /villa-canales/variedades/
-shop: general
+shop: Allgemein
 ---

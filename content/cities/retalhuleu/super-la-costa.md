@@ -1,5 +1,5 @@
 ---
 title: "Super La Costa"
 url: /retalhuleu/super-la-costa/
-shop: general
+shop: Allgemein
 ---

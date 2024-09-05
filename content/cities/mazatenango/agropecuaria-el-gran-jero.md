@@ -1,5 +1,5 @@
 ---
 title: "Agropecuaria El Gran Jero"
 url: /mazatenango/agropecuaria-el-gran-jero/
-shop: hardware
+shop: Eisenwaren
 ---

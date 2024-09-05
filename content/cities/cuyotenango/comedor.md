@@ -1,5 +1,5 @@
 ---
 title: "Comedor"
 url: /cuyotenango/comedor/
-shop: general
+shop: Allgemein
 ---

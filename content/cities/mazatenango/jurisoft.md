@@ -1,5 +1,5 @@
 ---
 title: "Jurisoft"
 url: /mazatenango/jurisoft/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Steam"
 url: /fraijanes/steam/
-shop: lavandería
+shop: Wäscherei
 ---

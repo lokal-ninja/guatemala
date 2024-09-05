@@ -1,5 +1,5 @@
 ---
 title: "Pops"
 url: /antigua-guatemala/pops/
-shop: helado
+shop: Eisprodukte
 ---

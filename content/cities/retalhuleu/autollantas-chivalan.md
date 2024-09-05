@@ -1,5 +1,5 @@
 ---
 title: "Autollantas Chivalan"
 url: /retalhuleu/autollantas-chivalan/
-shop: neumáticos
+shop: Reifen
 ---

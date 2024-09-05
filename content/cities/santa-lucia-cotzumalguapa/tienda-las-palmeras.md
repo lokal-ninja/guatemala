@@ -1,5 +1,5 @@
 ---
 title: "Tienda Las Palmeras"
 url: /santa-lucia-cotzumalguapa/tienda-las-palmeras/
-shop: general
+shop: Allgemein
 ---

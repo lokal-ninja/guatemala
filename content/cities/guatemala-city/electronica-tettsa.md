@@ -1,5 +1,5 @@
 ---
 title: "Electrónica TETTSA"
 url: /guatemala-city/electronica-tettsa/
-shop: electrónica
+shop: Elektronik
 ---

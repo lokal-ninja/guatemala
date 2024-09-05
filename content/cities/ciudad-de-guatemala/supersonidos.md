@@ -1,5 +1,5 @@
 ---
 title: "Supersonidos"
 url: /ciudad-de-guatemala/supersonidos/
-shop: supermercado
+shop: Supermarkt
 ---

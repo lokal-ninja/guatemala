@@ -1,5 +1,5 @@
 ---
 title: "Bambinos"
 url: /mixco/bambinos/
-shop: general
+shop: Allgemein
 ---

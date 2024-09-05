@@ -1,5 +1,5 @@
 ---
 title: "Conection"
 url: /retalhuleu/conection/
-shop: general
+shop: Allgemein
 ---

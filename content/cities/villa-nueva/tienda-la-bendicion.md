@@ -1,5 +1,5 @@
 ---
 title: "Tienda La Bendicion"
 url: /villa-nueva/tienda-la-bendicion/
-shop: quiosco
+shop: Kiosk
 ---

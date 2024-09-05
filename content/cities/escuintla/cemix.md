@@ -1,5 +1,5 @@
 ---
 title: "Cemix"
 url: /escuintla/cemix/
-shop: baldosas
+shop: Fliesen
 ---

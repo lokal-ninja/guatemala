@@ -1,5 +1,5 @@
 ---
 title: "Ajanel"
 url: /mazatenango/ajanel/
-shop: ropa
+shop: Kleidung
 ---

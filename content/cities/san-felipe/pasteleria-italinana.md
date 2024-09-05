@@ -1,5 +1,5 @@
 ---
 title: "Pastelería Italinana"
 url: /san-felipe/pasteleria-italinana/
-shop: joyería
+shop: Schmuck
 ---

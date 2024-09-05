@@ -1,5 +1,5 @@
 ---
 title: "Maya Cot"
 url: /antigua-guatemala/maya-cot/
-shop: general
+shop: Allgemein
 ---

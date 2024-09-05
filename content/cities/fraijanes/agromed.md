@@ -1,5 +1,5 @@
 ---
 title: "Agromed"
 url: /fraijanes/agromed/
-shop: comercio
+shop: Baustoffe
 ---

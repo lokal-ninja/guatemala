@@ -1,5 +1,5 @@
 ---
 title: "Bicicasa"
 url: /quetzaltenango/bicicasa/
-shop: bicicleta
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paleta"
 url: /quetzaltenango/paleta/
-shop: pintura
+shop: Farben
 ---

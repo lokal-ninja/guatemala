@@ -1,5 +1,5 @@
 ---
 title: "Sarita"
 url: /villa-nueva/sarita/
-shop: helado
+shop: Eisprodukte
 ---

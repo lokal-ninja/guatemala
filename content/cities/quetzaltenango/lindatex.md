@@ -1,5 +1,5 @@
 ---
 title: "Lindatex"
 url: /quetzaltenango/lindatex/
-shop: tela
+shop: Textil
 ---

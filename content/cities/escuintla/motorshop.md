@@ -1,5 +1,5 @@
 ---
 title: "Motorshop"
 url: /escuintla/motorshop/
-shop: motocicleta
+shop: Motorrad
 ---

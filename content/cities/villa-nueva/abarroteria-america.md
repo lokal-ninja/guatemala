@@ -1,5 +1,5 @@
 ---
 title: "Abarroteria America"
 url: /villa-nueva/abarroteria-america/
-shop: general
+shop: Allgemein
 ---

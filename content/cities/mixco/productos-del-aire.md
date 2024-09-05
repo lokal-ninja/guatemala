@@ -1,5 +1,5 @@
 ---
 title: "Productos del Aire"
 url: /mixco/productos-del-aire/
-shop: gas
+shop: Gasflaschen
 ---

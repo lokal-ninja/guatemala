@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /mazatenango/toyota/
-shop: motocicleta
+shop: Motorrad
 ---

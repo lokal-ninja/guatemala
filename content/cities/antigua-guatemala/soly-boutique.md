@@ -1,5 +1,5 @@
 ---
 title: "Soly Boutique"
 url: /antigua-guatemala/soly-boutique/
-shop: tienda
+shop: Modehaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Surtigangas"
 url: /retalhuleu/surtigangas/
-shop: general
+shop: Allgemein
 ---

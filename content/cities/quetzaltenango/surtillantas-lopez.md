@@ -1,5 +1,5 @@
 ---
 title: "Surtillantas Lopez"
 url: /quetzaltenango/surtillantas-lopez/
-shop: neumáticos
+shop: Reifen
 ---

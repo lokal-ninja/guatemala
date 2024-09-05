@@ -1,5 +1,5 @@
 ---
 title: "Tienda Emmanuel"
 url: /santa-lucia-cotzumalguapa/tienda-emmanuel/
-shop: comodidad
+shop: Lebensmittel
 ---

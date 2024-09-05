@@ -1,5 +1,5 @@
 ---
 title: "Batres"
 url: /retalhuleu/batres/
-shop: general
+shop: Allgemein
 ---

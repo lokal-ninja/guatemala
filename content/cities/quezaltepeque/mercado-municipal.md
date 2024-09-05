@@ -1,5 +1,5 @@
 ---
 title: "Mercado Municipal"
 url: /quezaltepeque/mercado-municipal/
-shop: supermercado
+shop: Supermarkt
 ---

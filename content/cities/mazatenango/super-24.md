@@ -1,5 +1,5 @@
 ---
 title: "Super 24"
 url: /mazatenango/super-24/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiosk"
 url: /escuintla/kiosk/
-shop: comodidad
+shop: Lebensmittel
 ---

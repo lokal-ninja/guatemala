@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /ciudad-de-guatemala/sherwin-williams/
-shop: pintura
+shop: Farben
 ---

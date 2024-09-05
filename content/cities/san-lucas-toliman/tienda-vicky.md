@@ -1,5 +1,5 @@
 ---
 title: "Tienda Vicky"
 url: /san-lucas-toliman/tienda-vicky/
-shop: comodidad
+shop: Lebensmittel
 ---

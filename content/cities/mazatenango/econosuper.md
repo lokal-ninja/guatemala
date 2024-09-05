@@ -1,5 +1,5 @@
 ---
 title: "Econosuper"
 url: /mazatenango/econosuper/
-shop: quiosco
+shop: Kiosk
 ---

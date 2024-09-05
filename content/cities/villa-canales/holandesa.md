@@ -1,5 +1,5 @@
 ---
 title: "Holandesa"
 url: /villa-canales/holandesa/
-shop: panadería
+shop: Bäckerei
 ---

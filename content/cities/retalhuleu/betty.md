@@ -1,5 +1,5 @@
 ---
 title: "Betty"
 url: /retalhuleu/betty/
-shop: peluquería
+shop: Friseur
 ---

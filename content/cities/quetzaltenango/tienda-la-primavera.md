@@ -1,5 +1,5 @@
 ---
 title: "Tienda La Primavera"
 url: /quetzaltenango/tienda-la-primavera/
-shop: general
+shop: Allgemein
 ---

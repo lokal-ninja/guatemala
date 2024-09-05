@@ -1,5 +1,5 @@
 ---
 title: "Salón Cheska"
 url: /puerta-parada/salon-cheska/
-shop: peluquería
+shop: Friseur
 ---

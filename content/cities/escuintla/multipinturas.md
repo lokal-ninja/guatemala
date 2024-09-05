@@ -1,5 +1,5 @@
 ---
 title: "Multipinturas"
 url: /escuintla/multipinturas/
-shop: hardware
+shop: Eisenwaren
 ---

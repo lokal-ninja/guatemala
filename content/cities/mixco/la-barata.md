@@ -1,5 +1,5 @@
 ---
 title: "La Barata"
 url: /mixco/la-barata/
-shop: general
+shop: Allgemein
 ---

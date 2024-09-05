@@ -1,5 +1,5 @@
 ---
 title: "Almacen La Universal"
 url: /quetzaltenango/almacen-la-universal/
-shop: general
+shop: Allgemein
 ---

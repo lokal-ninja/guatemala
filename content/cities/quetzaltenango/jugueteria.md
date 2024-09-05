@@ -1,5 +1,5 @@
 ---
 title: "Jugueteria"
 url: /quetzaltenango/jugueteria/
-shop: juguetes
+shop: Spielzeug
 ---

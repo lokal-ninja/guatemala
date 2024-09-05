@@ -1,5 +1,5 @@
 ---
 title: "Tienda Denilson"
 url: /quetzaltenango/tienda-denilson/
-shop: general
+shop: Allgemein
 ---

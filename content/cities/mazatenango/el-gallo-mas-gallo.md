@@ -1,5 +1,5 @@
 ---
 title: "El Gallo Mas Gallo"
 url: /mazatenango/el-gallo-mas-gallo/
-shop: grandes almacenes
+shop: Warenhaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arrow"
 url: /quetzaltenango/arrow/
-shop: ropa
+shop: Kleidung
 ---

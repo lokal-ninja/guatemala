@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /mazatenango/elektra/
-shop: electrónica
+shop: Elektronik
 ---

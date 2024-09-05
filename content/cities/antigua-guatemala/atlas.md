@@ -1,5 +1,5 @@
 ---
 title: "Atlas"
 url: /antigua-guatemala/atlas/
-shop: cama
+shop: Betten
 ---

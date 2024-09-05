@@ -1,5 +1,5 @@
 ---
 title: "Elecsur"
 url: /escuintla/elecsur/
-shop: hardware
+shop: Eisenwaren
 ---

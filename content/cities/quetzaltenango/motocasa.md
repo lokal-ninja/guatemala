@@ -1,5 +1,5 @@
 ---
 title: "Motocasa"
 url: /quetzaltenango/motocasa/
-shop: motocicleta
+shop: Motorrad
 ---
