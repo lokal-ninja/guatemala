@@ -1,5 +1,5 @@
 ---
 title: "Distun"
 url: /ciudad-de-guatemala/distun/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

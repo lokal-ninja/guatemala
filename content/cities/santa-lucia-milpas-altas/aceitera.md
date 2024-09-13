@@ -1,5 +1,5 @@
 ---
 title: "Aceitera"
 url: /santa-lucia-milpas-altas/aceitera/
-shop: Autoteile
+shop: piezas de automóviles
 ---

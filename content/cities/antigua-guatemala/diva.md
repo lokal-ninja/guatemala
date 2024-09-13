@@ -1,5 +1,5 @@
 ---
 title: "Diva"
 url: /antigua-guatemala/diva/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Imperial Travel"
 url: /antigua-guatemala/imperial-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

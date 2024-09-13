@@ -1,5 +1,5 @@
 ---
 title: "Libreria y Papeleria Esther"
 url: /quetzaltenango/libreria-y-papeleria-esther/
-shop: Schreibwaren
+shop: material de oficina
 ---

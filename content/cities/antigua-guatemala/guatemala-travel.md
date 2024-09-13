@@ -1,5 +1,5 @@
 ---
 title: "Guatemala Travel"
 url: /antigua-guatemala/guatemala-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

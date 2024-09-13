@@ -1,5 +1,5 @@
 ---
 title: "Almacen Hernández"
 url: /santa-lucia-milpas-altas/almacen-hernandez/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Puma"
 url: /retalhuleu/puma/
-shop: Lebensmittel
+shop: comodidad
 ---

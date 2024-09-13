@@ -1,5 +1,5 @@
 ---
 title: "Palasan"
 url: /antigua-guatemala/palasan/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda Minita"
 url: /san-jose-pinula/tienda-minita/
-shop: Allgemein
+shop: general
 ---

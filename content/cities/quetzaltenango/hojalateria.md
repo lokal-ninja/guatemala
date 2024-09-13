@@ -1,5 +1,5 @@
 ---
 title: "Hojalatería"
 url: /quetzaltenango/hojalateria/
-shop: Allgemein
+shop: general
 ---

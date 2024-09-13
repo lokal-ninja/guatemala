@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Maldonado"
 url: /quetzaltenango/repuestos-maldonado/
-shop: Autoteile
+shop: piezas de automóviles
 ---

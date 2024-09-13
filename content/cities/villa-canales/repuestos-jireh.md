@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Jireh"
 url: /villa-canales/repuestos-jireh/
-shop: Autoteile
+shop: piezas de automóviles
 ---

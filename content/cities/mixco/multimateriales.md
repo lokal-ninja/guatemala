@@ -1,5 +1,5 @@
 ---
 title: "Multimateriales"
 url: /mixco/multimateriales/
-shop: Eisenwaren
+shop: hardware
 ---

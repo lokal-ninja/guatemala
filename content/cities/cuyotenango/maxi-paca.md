@@ -1,5 +1,5 @@
 ---
 title: "Maxi Paca"
 url: /cuyotenango/maxi-paca/
-shop: Kleidung
+shop: ropa
 ---

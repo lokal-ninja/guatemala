@@ -1,5 +1,5 @@
 ---
 title: "Comercial el Ciclista"
 url: /retalhuleu/comercial-el-ciclista/
-shop: Fahrrad
+shop: bicicleta
 ---

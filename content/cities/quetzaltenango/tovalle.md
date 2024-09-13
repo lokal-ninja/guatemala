@@ -1,5 +1,5 @@
 ---
 title: "Tovalle"
 url: /quetzaltenango/tovalle/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

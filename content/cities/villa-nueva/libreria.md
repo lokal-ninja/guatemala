@@ -1,5 +1,5 @@
 ---
 title: "Libreria"
 url: /villa-nueva/libreria/
-shop: Schreibwaren
+shop: material de oficina
 ---

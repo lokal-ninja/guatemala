@@ -1,5 +1,5 @@
 ---
 title: "Renacer"
 url: /santa-lucia-milpas-altas/renacer/
-shop: Bäckerei
+shop: panadería
 ---

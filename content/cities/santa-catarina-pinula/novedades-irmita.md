@@ -1,5 +1,5 @@
 ---
 title: "Novedades Irmita"
 url: /santa-catarina-pinula/novedades-irmita/
-shop: Dorfladen
+shop: tienda rural
 ---

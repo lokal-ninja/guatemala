@@ -1,5 +1,5 @@
 ---
 title: "Tienda Itzcuintlan"
 url: /escuintla/tienda-itzcuintlan/
-shop: Kiosk
+shop: quiosco
 ---

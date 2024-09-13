@@ -1,5 +1,5 @@
 ---
 title: "El Shaday"
 url: /quetzaltenango/el-shaday/
-shop: Allgemein
+shop: general
 ---

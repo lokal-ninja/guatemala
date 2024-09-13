@@ -1,5 +1,5 @@
 ---
 title: "Tropigas"
 url: /mixco/tropigas/
-shop: Gasflaschen
+shop: gas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Merendero"
 url: /antigua-guatemala/el-merendero/
-shop: Allgemein
+shop: general
 ---

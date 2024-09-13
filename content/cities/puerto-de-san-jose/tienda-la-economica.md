@@ -1,5 +1,5 @@
 ---
 title: "Tienda La Economica"
 url: /puerto-de-san-jose/tienda-la-economica/
-shop: Allgemein
+shop: general
 ---

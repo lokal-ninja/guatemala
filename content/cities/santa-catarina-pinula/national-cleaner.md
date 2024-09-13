@@ -1,5 +1,5 @@
 ---
 title: "National cleaner"
 url: /santa-catarina-pinula/national-cleaner/
-shop: Wäscherei
+shop: lavandería
 ---

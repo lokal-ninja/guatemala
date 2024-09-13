@@ -1,5 +1,5 @@
 ---
 title: "Auto Repuestos Garcia"
 url: /cuyotenango/auto-repuestos-garcia/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Electromack"
 url: /escuintla/electromack/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quetzal Tours"
 url: /quetzaltenango/quetzal-tours-3a-calle-zona-1/
-shop: Reisebüro
+shop: agencia de viajes
 ---

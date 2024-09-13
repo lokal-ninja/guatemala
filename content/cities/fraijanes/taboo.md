@@ -1,5 +1,5 @@
 ---
 title: "Taboo"
 url: /fraijanes/taboo/
-shop: Kleidung
+shop: ropa
 ---

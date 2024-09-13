@@ -1,5 +1,5 @@
 ---
 title: "Conection"
 url: /mixco/conection/
-shop: Handy
+shop: teléfono móvil
 ---

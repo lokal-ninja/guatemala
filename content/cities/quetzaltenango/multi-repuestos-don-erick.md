@@ -1,5 +1,5 @@
 ---
 title: "Multi Repuestos Don Erick"
 url: /quetzaltenango/multi-repuestos-don-erick/
-shop: Autoteile
+shop: piezas de automóviles
 ---

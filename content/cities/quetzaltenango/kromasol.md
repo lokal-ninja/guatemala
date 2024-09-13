@@ -1,5 +1,5 @@
 ---
 title: "Kromasol"
 url: /quetzaltenango/kromasol/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

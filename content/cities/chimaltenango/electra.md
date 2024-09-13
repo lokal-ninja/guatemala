@@ -1,5 +1,5 @@
 ---
 title: "Electra"
 url: /chimaltenango/electra/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ImplaXela"
 url: /quetzaltenango/implaxela/
-shop: Allgemein
+shop: general
 ---

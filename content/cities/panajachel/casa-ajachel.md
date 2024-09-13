@@ -1,5 +1,5 @@
 ---
 title: "Casa Ajachel"
 url: /panajachel/casa-ajachel/
-shop: Kramladen
+shop: tienda de variedades
 ---

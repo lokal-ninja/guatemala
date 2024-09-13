@@ -1,5 +1,5 @@
 ---
 title: "Multirepuestos La Ceiba"
 url: /siquinala/multirepuestos-la-ceiba/
-shop: Autoteile
+shop: piezas de automóviles
 ---

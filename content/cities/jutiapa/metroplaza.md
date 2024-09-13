@@ -1,5 +1,5 @@
 ---
 title: "MetroPlaza"
 url: /jutiapa/metroplaza/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

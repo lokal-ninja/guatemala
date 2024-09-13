@@ -1,5 +1,5 @@
 ---
 title: "Adrenalina Tours"
 url: /antigua-guatemala/adrenalina-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

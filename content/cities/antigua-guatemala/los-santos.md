@@ -1,5 +1,5 @@
 ---
 title: "Los Santos"
 url: /antigua-guatemala/los-santos/
-shop: Allgemein
+shop: general
 ---

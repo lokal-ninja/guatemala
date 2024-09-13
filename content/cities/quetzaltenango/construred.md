@@ -1,5 +1,5 @@
 ---
 title: "ConstruRed"
 url: /quetzaltenango/construred/
-shop: Baustoffe
+shop: comercio
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Importadora El Vencedor"
 url: /quetzaltenango/importadora-el-vencedor/
-shop: Allgemein
+shop: general
 ---

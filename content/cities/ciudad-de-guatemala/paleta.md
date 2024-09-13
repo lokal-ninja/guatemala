@@ -1,5 +1,5 @@
 ---
 title: "Paleta"
 url: /ciudad-de-guatemala/paleta/
-shop: Autoteile
+shop: piezas de automóviles
 ---

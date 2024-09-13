@@ -1,5 +1,5 @@
 ---
 title: "Tortillería Perez"
 url: /quetzaltenango/tortilleria-perez/
-shop: Bäckerei
+shop: panadería
 ---

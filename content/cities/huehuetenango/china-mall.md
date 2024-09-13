@@ -1,5 +1,5 @@
 ---
 title: "China Mall"
 url: /huehuetenango/china-mall/
-shop: Warenhaus
+shop: grandes almacenes
 ---

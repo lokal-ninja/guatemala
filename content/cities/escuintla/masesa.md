@@ -1,5 +1,5 @@
 ---
 title: "Masesa"
 url: /escuintla/masesa/
-shop: Motorrad
+shop: motocicleta
 ---

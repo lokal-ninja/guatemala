@@ -1,5 +1,5 @@
 ---
 title: "Tortilleria Letty"
 url: /mazatenango/tortilleria-letty/
-shop: Lebensmittel
+shop: comodidad
 ---

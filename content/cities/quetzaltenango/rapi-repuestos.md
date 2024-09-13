@@ -1,5 +1,5 @@
 ---
 title: "Rapi Repuestos"
 url: /quetzaltenango/rapi-repuestos/
-shop: Allgemein
+shop: general
 ---

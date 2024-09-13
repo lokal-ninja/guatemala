@@ -1,5 +1,5 @@
 ---
 title: "Abarrotería Carolina"
 url: /zona-19-ciudad-de-guatemala/abarroteria-carolina/
-shop: Lebensmittel
+shop: comodidad
 ---

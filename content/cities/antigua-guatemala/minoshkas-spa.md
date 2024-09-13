@@ -1,5 +1,5 @@
 ---
 title: "Minoshka's Spa"
 url: /antigua-guatemala/minoshkas-spa/
-shop: Kosmetik
+shop: cosméticos
 ---

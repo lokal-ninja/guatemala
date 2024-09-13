@@ -1,5 +1,5 @@
 ---
 title: "Servi Puertas Outlet"
 url: /quetzaltanango/servi-puertas-outlet/
-shop: Allgemein
+shop: general
 ---

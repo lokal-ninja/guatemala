@@ -1,5 +1,5 @@
 ---
 title: "Almacen Leonor"
 url: /mazatenango/almacen-leonor/
-shop: Möbel
+shop: muebles
 ---

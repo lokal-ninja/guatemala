@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /villa-nueva/sherwin-williams/
-shop: Farben
+shop: pintura
 ---

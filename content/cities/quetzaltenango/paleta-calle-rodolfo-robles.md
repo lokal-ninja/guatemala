@@ -1,5 +1,5 @@
 ---
 title: "Paleta"
 url: /quetzaltenango/paleta-calle-rodolfo-robles/
-shop: Farben
+shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arriola"
 url: /antigua-guatemala/arriola/
-shop: Allgemein
+shop: general
 ---

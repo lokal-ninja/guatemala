@@ -1,5 +1,5 @@
 ---
 title: "Funerales Cifuentes"
 url: /mazatenango/funerales-cifuentes/
-shop: Bestattungen
+shop: directores de funerarias
 ---

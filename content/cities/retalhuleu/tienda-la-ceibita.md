@@ -1,5 +1,5 @@
 ---
 title: "Tienda la Ceibita"
 url: /retalhuleu/tienda-la-ceibita/
-shop: Lebensmittel
+shop: comodidad
 ---

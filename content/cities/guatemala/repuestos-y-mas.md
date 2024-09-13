@@ -1,5 +1,5 @@
 ---
 title: "Repuestos y mas"
 url: /guatemala/repuestos-y-mas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

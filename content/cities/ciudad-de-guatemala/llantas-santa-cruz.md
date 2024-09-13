@@ -1,5 +1,5 @@
 ---
 title: "Llantas Santa Cruz"
 url: /ciudad-de-guatemala/llantas-santa-cruz/
-shop: Reifen
+shop: neumáticos
 ---

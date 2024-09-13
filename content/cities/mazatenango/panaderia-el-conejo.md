@@ -1,5 +1,5 @@
 ---
 title: "Panadería El Conejo"
 url: /mazatenango/panaderia-el-conejo/
-shop: Bäckerei
+shop: panadería
 ---

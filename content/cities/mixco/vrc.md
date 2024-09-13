@@ -1,5 +1,5 @@
 ---
 title: "VRC"
 url: /mixco/vrc/
-shop: Autoteile
+shop: piezas de automóviles
 ---

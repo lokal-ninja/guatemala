@@ -1,5 +1,5 @@
 ---
 title: "Plaza Central"
 url: /san-lucas-sacatepequez/plaza-central/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

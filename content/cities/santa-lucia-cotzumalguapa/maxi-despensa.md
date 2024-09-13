@@ -1,5 +1,5 @@
 ---
 title: "Maxi Despensa"
 url: /santa-lucia-cotzumalguapa/maxi-despensa/
-shop: Supermarkt
+shop: supermercado
 ---

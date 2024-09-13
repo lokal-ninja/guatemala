@@ -1,5 +1,5 @@
 ---
 title: "Importadora Llanlis"
 url: /mazatenango/importadora-llanlis/
-shop: Autoteile
+shop: piezas de automóviles
 ---

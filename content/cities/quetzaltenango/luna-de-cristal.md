@@ -1,5 +1,5 @@
 ---
 title: "Luna de Cristal"
 url: /quetzaltenango/luna-de-cristal/
-shop: Allgemein
+shop: general
 ---

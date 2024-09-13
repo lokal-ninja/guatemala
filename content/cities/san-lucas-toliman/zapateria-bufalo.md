@@ -1,5 +1,5 @@
 ---
 title: "Zapatería Bufalo"
 url: /san-lucas-toliman/zapateria-bufalo/
-shop: Schuhe
+shop: zapatos
 ---

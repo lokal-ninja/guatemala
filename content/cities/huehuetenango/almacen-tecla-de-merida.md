@@ -1,5 +1,5 @@
 ---
 title: "Almacén Tecla de Mérida"
 url: /huehuetenango/almacen-tecla-de-merida/
-shop: Eisenwaren
+shop: hardware
 ---

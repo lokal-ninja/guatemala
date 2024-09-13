@@ -1,5 +1,5 @@
 ---
 title: "Vazvini"
 url: /villa-nueva/vazvini/
-shop: Allgemein
+shop: general
 ---

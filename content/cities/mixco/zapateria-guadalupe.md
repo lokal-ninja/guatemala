@@ -1,5 +1,5 @@
 ---
 title: "Zapatería Guadalupe"
 url: /mixco/zapateria-guadalupe/
-shop: Schuhe
+shop: zapatos
 ---

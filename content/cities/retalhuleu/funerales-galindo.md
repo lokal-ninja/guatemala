@@ -1,5 +1,5 @@
 ---
 title: "Funerales Galindo"
 url: /retalhuleu/funerales-galindo/
-shop: Bestattungen
+shop: directores de funerarias
 ---

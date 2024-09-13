@@ -1,5 +1,5 @@
 ---
 title: "Cristalina"
 url: /barcenas/cristalina/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Licores El Chaparral"
 url: /quetzaltenango/licores-el-chaparral/
-shop: Spirituosen
+shop: alcohol
 ---

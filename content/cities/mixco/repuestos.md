@@ -1,5 +1,5 @@
 ---
 title: "Repuestos"
 url: /mixco/repuestos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería La Nueva"
 url: /santa-lucia-cotzumalguapa/ferreteria-la-nueva/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Realice"
 url: /mazatenango/realice/
-shop: Leiher
+shop: prestamista
 ---

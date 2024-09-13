@@ -1,5 +1,5 @@
 ---
 title: "Autox Genuine Parts"
 url: /fraijanes/autox-genuine-parts/
-shop: Autoteile
+shop: piezas de automóviles
 ---

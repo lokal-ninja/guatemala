@@ -1,5 +1,5 @@
 ---
 title: "Tornillos"
 url: /mixco/tornillos/
-shop: Eisenwaren
+shop: hardware
 ---

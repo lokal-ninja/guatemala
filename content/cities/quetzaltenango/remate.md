@@ -1,5 +1,5 @@
 ---
 title: "Remate"
 url: /quetzaltenango/remate/
-shop: Instrumente
+shop: instrumento musical
 ---

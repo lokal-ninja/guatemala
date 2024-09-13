@@ -1,5 +1,5 @@
 ---
 title: "Almacencito Letty"
 url: /quetzaltenango/almacencito-letty/
-shop: Allgemein
+shop: general
 ---

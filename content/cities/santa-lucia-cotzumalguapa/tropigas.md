@@ -1,5 +1,5 @@
 ---
 title: "Tropigas"
 url: /santa-lucia-cotzumalguapa/tropigas/
-shop: Allgemein
+shop: general
 ---

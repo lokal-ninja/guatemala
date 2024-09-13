@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Metroplaza"
 url: /puerta-parada/centro-comercial-metroplaza/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

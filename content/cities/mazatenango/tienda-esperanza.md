@@ -1,5 +1,5 @@
 ---
 title: "Tienda Esperanza"
 url: /mazatenango/tienda-esperanza/
-shop: Kiosk
+shop: quiosco
 ---

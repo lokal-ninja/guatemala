@@ -1,5 +1,5 @@
 ---
 title: "Auto Partes Junior"
 url: /quetzaltenango/auto-partes-junior/
-shop: Autoteile
+shop: piezas de automóviles
 ---

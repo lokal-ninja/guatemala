@@ -1,5 +1,5 @@
 ---
 title: "Constru Fuerte"
 url: /jalapa/constru-fuerte/
-shop: Eisenwaren
+shop: hardware
 ---

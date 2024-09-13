@@ -1,5 +1,5 @@
 ---
 title: "Super Frenos de Leon"
 url: /quetzaltenango/super-frenos-de-leon/
-shop: Autoteile
+shop: piezas de automóviles
 ---

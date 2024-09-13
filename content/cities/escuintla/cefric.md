@@ -1,5 +1,5 @@
 ---
 title: "Cefric"
 url: /escuintla/cefric/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

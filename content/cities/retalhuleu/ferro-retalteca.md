@@ -1,5 +1,5 @@
 ---
 title: "Ferro Retalteca"
 url: /retalhuleu/ferro-retalteca/
-shop: Autoteile
+shop: piezas de automóviles
 ---

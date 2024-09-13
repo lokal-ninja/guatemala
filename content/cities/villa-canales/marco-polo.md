@@ -1,5 +1,5 @@
 ---
 title: "Marco Polo"
 url: /villa-canales/marco-polo/
-shop: Eisprodukte
+shop: helado
 ---

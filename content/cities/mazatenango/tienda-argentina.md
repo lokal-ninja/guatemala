@@ -1,5 +1,5 @@
 ---
 title: "Tienda Argentina"
 url: /mazatenango/tienda-argentina/
-shop: Lebensmittel
+shop: comodidad
 ---

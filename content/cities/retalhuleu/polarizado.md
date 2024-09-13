@@ -1,5 +1,5 @@
 ---
 title: "Polarizado"
 url: /retalhuleu/polarizado/
-shop: Autoteile
+shop: piezas de automóviles
 ---

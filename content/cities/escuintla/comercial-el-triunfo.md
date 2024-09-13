@@ -1,5 +1,5 @@
 ---
 title: "Comercial El Triunfo"
 url: /escuintla/comercial-el-triunfo/
-shop: Handy
+shop: teléfono móvil
 ---

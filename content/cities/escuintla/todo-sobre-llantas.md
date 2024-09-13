@@ -1,5 +1,5 @@
 ---
 title: "Todo Sobre Llantas"
 url: /escuintla/todo-sobre-llantas/
-shop: Reifen
+shop: neumáticos
 ---

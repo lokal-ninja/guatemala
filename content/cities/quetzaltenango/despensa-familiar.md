@@ -1,5 +1,5 @@
 ---
 title: "Despensa Familiar"
 url: /quetzaltenango/despensa-familiar/
-shop: Supermarkt
+shop: supermercado
 ---

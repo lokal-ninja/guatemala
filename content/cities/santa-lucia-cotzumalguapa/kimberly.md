@@ -1,5 +1,5 @@
 ---
 title: "Kimberly"
 url: /santa-lucia-cotzumalguapa/kimberly/
-shop: Schuhe
+shop: zapatos
 ---

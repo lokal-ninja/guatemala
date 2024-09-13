@@ -1,5 +1,5 @@
 ---
 title: "CAT-Infotec"
 url: /san-miguel-petapa/cat-infotec/
-shop: Allgemein
+shop: general
 ---

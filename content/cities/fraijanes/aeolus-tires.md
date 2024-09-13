@@ -1,5 +1,5 @@
 ---
 title: "Aeolus Tires"
 url: /fraijanes/aeolus-tires/
-shop: Reifen
+shop: neumáticos
 ---

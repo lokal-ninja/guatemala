@@ -1,5 +1,5 @@
 ---
 title: "Expendio"
 url: /mixco/expendio/
-shop: Allgemein
+shop: general
 ---

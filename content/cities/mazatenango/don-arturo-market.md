@@ -1,5 +1,5 @@
 ---
 title: "Don Arturo Market"
 url: /mazatenango/don-arturo-market/
-shop: Lebensmittel
+shop: comodidad
 ---

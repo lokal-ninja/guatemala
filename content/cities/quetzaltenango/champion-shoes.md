@@ -1,5 +1,5 @@
 ---
 title: "Champion Shoes"
 url: /quetzaltenango/champion-shoes/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panadería de Jesús"
 url: /fraijanes/panaderia-de-jesus/
-shop: Bäckerei
+shop: panadería
 ---

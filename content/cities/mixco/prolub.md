@@ -1,5 +1,5 @@
 ---
 title: "Prolub"
 url: /mixco/prolub/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

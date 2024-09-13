@@ -1,5 +1,5 @@
 ---
 title: "Dynamic Store"
 url: /quetzaltenango/dynamic-store/
-shop: Schuhe
+shop: zapatos
 ---

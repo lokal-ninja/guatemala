@@ -1,5 +1,5 @@
 ---
 title: "D'Garage"
 url: /quetzaltenango/dgarage/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

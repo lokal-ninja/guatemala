@@ -1,5 +1,5 @@
 ---
 title: "Cerámicas Antigua"
 url: /antigua-guatemala/ceramicas-antigua/
-shop: Allgemein
+shop: general
 ---

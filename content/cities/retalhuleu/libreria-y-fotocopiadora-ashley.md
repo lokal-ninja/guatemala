@@ -1,5 +1,5 @@
 ---
 title: "Libreria Y Fotocopiadora Ashley"
 url: /retalhuleu/libreria-y-fotocopiadora-ashley/
-shop: Kopieren
+shop: copyshop
 ---

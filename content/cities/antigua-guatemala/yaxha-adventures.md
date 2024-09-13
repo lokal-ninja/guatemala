@@ -1,5 +1,5 @@
 ---
 title: "Yaxha Adventures"
 url: /antigua-guatemala/yaxha-adventures/
-shop: Reisebüro
+shop: agencia de viajes
 ---

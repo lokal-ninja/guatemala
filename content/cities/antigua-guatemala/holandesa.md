@@ -1,5 +1,5 @@
 ---
 title: "Holandesa"
 url: /antigua-guatemala/holandesa/
-shop: Konditorei
+shop: pastelería
 ---

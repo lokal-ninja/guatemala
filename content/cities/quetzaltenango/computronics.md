@@ -1,5 +1,5 @@
 ---
 title: "Computronics"
 url: /quetzaltenango/computronics/
-shop: Computer
+shop: ordenador
 ---

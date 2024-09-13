@@ -1,5 +1,5 @@
 ---
 title: "Almacen Super Lucky"
 url: /quetzaltenango/almacen-super-lucky/
-shop: Allgemein
+shop: general
 ---

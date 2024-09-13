@@ -1,5 +1,5 @@
 ---
 title: "Soluciones COINSER"
 url: /guatemala/soluciones-coinser/
-shop: Baustoffe
+shop: comercio
 ---

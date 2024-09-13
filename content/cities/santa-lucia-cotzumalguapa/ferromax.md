@@ -1,5 +1,5 @@
 ---
 title: "Ferromax"
 url: /santa-lucia-cotzumalguapa/ferromax/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

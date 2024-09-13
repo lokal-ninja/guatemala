@@ -1,5 +1,5 @@
 ---
 title: "Almacén La Estrella"
 url: /retalhuleu/almacen-la-estrella/
-shop: Warenhaus
+shop: grandes almacenes
 ---

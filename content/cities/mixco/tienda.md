@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
 url: /mixco/tienda/
-shop: Allgemein
+shop: general
 ---

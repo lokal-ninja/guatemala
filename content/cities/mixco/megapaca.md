@@ -1,5 +1,5 @@
 ---
 title: "Megapaca"
 url: /mixco/megapaca/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Genesis"
 url: /villa-canales/genesis/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

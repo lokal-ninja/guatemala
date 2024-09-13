@@ -1,5 +1,5 @@
 ---
 title: "Constru-Center Candelaría"
 url: /quetzaltenango/constru-center-candelaria/
-shop: Eisenwaren
+shop: hardware
 ---

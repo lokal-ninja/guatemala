@@ -1,5 +1,5 @@
 ---
 title: "Cremalleras"
 url: /mixco/cremalleras/
-shop: Bestattungen
+shop: directores de funerarias
 ---

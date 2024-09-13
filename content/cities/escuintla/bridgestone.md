@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
 url: /escuintla/bridgestone/
-shop: Reifen
+shop: neumáticos
 ---

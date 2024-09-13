@@ -1,5 +1,5 @@
 ---
 title: "PreCon"
 url: /quetzaltenango/precon/
-shop: Baustoffe
+shop: comercio
 ---

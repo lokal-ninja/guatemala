@@ -1,5 +1,5 @@
 ---
 title: "Surtidora Automotriz"
 url: /escuintla/surtidora-automotriz/
-shop: Autoteile
+shop: piezas de automóviles
 ---

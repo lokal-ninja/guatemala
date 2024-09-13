@@ -1,5 +1,5 @@
 ---
 title: "Movesa"
 url: /quetzaltenango/movesa/
-shop: Motorrad
+shop: motocicleta
 ---

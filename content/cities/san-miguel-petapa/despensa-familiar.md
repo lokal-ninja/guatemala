@@ -1,5 +1,5 @@
 ---
 title: "Despensa Familiar"
 url: /san-miguel-petapa/despensa-familiar/
-shop: Warenhaus
+shop: grandes almacenes
 ---

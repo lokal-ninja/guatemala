@@ -1,5 +1,5 @@
 ---
 title: "Kasa del Médico"
 url: /quetzaltenango/kasa-del-medico/
-shop: Kleidung
+shop: ropa
 ---

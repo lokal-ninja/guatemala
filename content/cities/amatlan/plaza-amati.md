@@ -1,5 +1,5 @@
 ---
 title: "Plaza Amati"
 url: /amatlan/plaza-amati/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

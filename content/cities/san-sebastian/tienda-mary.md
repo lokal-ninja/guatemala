@@ -1,5 +1,5 @@
 ---
 title: "Tienda Mary"
 url: /san-sebastian/tienda-mary/
-shop: Kiosk
+shop: quiosco
 ---

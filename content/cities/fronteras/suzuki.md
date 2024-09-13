@@ -1,5 +1,5 @@
 ---
 title: "Suzuki"
 url: /fronteras/suzuki/
-shop: Boot
+shop: barco
 ---

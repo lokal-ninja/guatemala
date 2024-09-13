@@ -1,5 +1,5 @@
 ---
 title: "Muebles Gabriela"
 url: /villa-canales/muebles-gabriela/
-shop: Möbel
+shop: muebles
 ---

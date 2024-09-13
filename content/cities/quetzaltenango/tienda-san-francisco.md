@@ -1,5 +1,5 @@
 ---
 title: "Tienda San Francisco"
 url: /quetzaltenango/tienda-san-francisco/
-shop: Allgemein
+shop: general
 ---

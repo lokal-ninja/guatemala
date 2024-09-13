@@ -1,5 +1,5 @@
 ---
 title: "Herrería Carranza"
 url: /quetzaltenango/herreria-carranza/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

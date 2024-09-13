@@ -1,5 +1,5 @@
 ---
 title: "BikeSport"
 url: /guatemala-city/bikesport/
-shop: Fahrrad
+shop: bicicleta
 ---

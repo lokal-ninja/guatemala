@@ -1,5 +1,5 @@
 ---
 title: "Pan Colonial"
 url: /antigua-guatemala/pan-colonial/
-shop: Bäckerei
+shop: panadería
 ---

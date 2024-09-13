@@ -1,5 +1,5 @@
 ---
 title: "Talleres Vasquez"
 url: /retalhuleu/talleres-vasquez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

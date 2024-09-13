@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Jireh"
 url: /quetzaltenango/repuestos-jireh/
-shop: Autoteile
+shop: piezas de automóviles
 ---

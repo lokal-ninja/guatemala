@@ -1,5 +1,5 @@
 ---
 title: "Miscelánea Don Luis"
 url: /san-lucas-toliman/miscelanea-don-luis/
-shop: Kramladen
+shop: tienda de variedades
 ---

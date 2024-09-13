@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Ely"
 url: /quetzaltenango/repuestos-ely/
-shop: Autoteile
+shop: piezas de automóviles
 ---

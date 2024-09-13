@@ -1,5 +1,5 @@
 ---
 title: "Spirit Computacion"
 url: /quetzaltenango/spirit-computacion/
-shop: Computer
+shop: ordenador
 ---

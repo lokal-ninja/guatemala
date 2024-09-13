@@ -1,5 +1,5 @@
 ---
 title: "Andalucia"
 url: /fraijanes/andalucia/
-shop: Bäckerei
+shop: panadería
 ---

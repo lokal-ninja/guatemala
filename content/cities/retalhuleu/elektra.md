@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /retalhuleu/elektra/
-shop: Leiher
+shop: prestamista
 ---

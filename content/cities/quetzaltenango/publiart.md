@@ -1,5 +1,5 @@
 ---
 title: "Publiart"
 url: /quetzaltenango/publiart/
-shop: Kopieren
+shop: copyshop
 ---

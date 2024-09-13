@@ -1,5 +1,5 @@
 ---
 title: "Ferromax"
 url: /escuintla/ferromax/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autoventas El Chino"
 url: /quetzaltenango/autoventas-el-chino/
-shop: Autohaus
+shop: coche
 ---

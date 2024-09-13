@@ -1,5 +1,5 @@
 ---
 title: "Panadería"
 url: /tejutla/panaderia/
-shop: Bäckerei
+shop: panadería
 ---

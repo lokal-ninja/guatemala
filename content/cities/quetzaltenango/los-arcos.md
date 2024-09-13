@@ -1,5 +1,5 @@
 ---
 title: "Los Arcos"
 url: /quetzaltenango/los-arcos/
-shop: Kopieren
+shop: copyshop
 ---

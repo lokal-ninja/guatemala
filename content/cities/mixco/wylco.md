@@ -1,5 +1,5 @@
 ---
 title: "Wylco"
 url: /mixco/wylco/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda El Paraiso"
 url: /villa-nueva/tienda-el-paraiso/
-shop: Kiosk
+shop: quiosco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tubofort"
 url: /quetzaltenango/tubofort-avenida-la-independencia/
-shop: Baustoffe
+shop: comercio
 ---

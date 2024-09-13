@@ -1,5 +1,5 @@
 ---
 title: "Almacen Bonanza"
 url: /quetzaltenango/almacen-bonanza/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda Santa Marta"
 url: /antigua-guatemala/tienda-santa-marta/
-shop: Allgemein
+shop: general
 ---

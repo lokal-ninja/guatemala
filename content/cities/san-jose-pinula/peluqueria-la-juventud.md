@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria La Juventud"
 url: /san-jose-pinula/peluqueria-la-juventud/
-shop: Friseur
+shop: peluquería
 ---

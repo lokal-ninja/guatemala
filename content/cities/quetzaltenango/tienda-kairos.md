@@ -1,5 +1,5 @@
 ---
 title: "Tienda Kairos"
 url: /quetzaltenango/tienda-kairos/
-shop: Allgemein
+shop: general
 ---

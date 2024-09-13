@@ -1,5 +1,5 @@
 ---
 title: "Autofrio"
 url: /guatemala-guatemala-zona-14/autofrio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barbería Emmanuel"
 url: /villa-nueva/barberia-emmanuel/
-shop: Friseur
+shop: peluquería
 ---

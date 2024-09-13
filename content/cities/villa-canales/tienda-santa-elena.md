@@ -1,5 +1,5 @@
 ---
 title: "Tienda Santa Elena"
 url: /villa-canales/tienda-santa-elena/
-shop: Kiosk
+shop: quiosco
 ---

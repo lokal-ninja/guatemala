@@ -1,5 +1,5 @@
 ---
 title: "Almacen Shalom"
 url: /quetzaltenango/almacen-shalom/
-shop: Allgemein
+shop: general
 ---

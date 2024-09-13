@@ -1,5 +1,5 @@
 ---
 title: "Taller Mecánico de Buses"
 url: /zona-6-de-villa-nueva/taller-mecanico-de-buses-8a-calle/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

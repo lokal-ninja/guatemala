@@ -1,5 +1,5 @@
 ---
 title: "Moto-Repuestos"
 url: /puerto-san-jose/moto-repuestos/
-shop: Motorrad
+shop: motocicleta
 ---

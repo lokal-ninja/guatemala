@@ -1,5 +1,5 @@
 ---
 title: "Gema"
 url: /quetzaltenango/gema/
-shop: Allgemein
+shop: general
 ---

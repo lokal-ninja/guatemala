@@ -1,5 +1,5 @@
 ---
 title: "La Nueva Estrella"
 url: /quetzaltenango/la-nueva-estrella/
-shop: Allgemein
+shop: general
 ---

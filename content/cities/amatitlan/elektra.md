@@ -1,5 +1,5 @@
 ---
 title: "ELEKTRA"
 url: /amatitlan/elektra/
-shop: Haushaltsgeräte
+shop: aparato
 ---

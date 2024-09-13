@@ -1,5 +1,5 @@
 ---
 title: "Lavadería Andru Bubble"
 url: /quetzaltenango/lavaderia-andru-bubble/
-shop: Wäscherei
+shop: lavandería
 ---

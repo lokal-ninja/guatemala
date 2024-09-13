@@ -1,5 +1,5 @@
 ---
 title: "GuatEx"
 url: /zona-12-guatemala/guatex/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

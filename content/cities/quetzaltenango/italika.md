@@ -1,5 +1,5 @@
 ---
 title: "Italika"
 url: /quetzaltenango/italika/
-shop: Allgemein
+shop: general
 ---

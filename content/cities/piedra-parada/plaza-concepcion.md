@@ -1,5 +1,5 @@
 ---
 title: "Plaza Concepción"
 url: /piedra-parada/plaza-concepcion/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

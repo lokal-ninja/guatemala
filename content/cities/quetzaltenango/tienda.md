@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
 url: /quetzaltenango/tienda/
-shop: Lebensmittel
+shop: comodidad
 ---

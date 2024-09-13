@@ -1,5 +1,5 @@
 ---
 title: "Ares Boutique"
 url: /antigua/ares-boutique/
-shop: Modehaus
+shop: tienda
 ---

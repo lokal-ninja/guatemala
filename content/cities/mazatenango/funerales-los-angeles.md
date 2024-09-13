@@ -1,5 +1,5 @@
 ---
 title: "Funerales Los Angeles"
 url: /mazatenango/funerales-los-angeles/
-shop: Bestattungen
+shop: directores de funerarias
 ---

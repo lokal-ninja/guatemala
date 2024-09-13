@@ -1,5 +1,5 @@
 ---
 title: "Panamarket"
 url: /panajachel/panamarket/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metalumex"
 url: /quetzaltenango/metalumex/
-shop: Baustoffe
+shop: comercio
 ---

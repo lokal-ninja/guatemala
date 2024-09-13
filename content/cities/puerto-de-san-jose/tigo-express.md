@@ -1,5 +1,5 @@
 ---
 title: "Tigo Express"
 url: /puerto-de-san-jose/tigo-express/
-shop: Handy
+shop: teléfono móvil
 ---

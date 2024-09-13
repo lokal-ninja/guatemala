@@ -1,5 +1,5 @@
 ---
 title: "Uxibal"
 url: /antigua-guatemala/uxibal/
-shop: Allgemein
+shop: general
 ---

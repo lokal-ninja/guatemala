@@ -1,5 +1,5 @@
 ---
 title: "Adonai"
 url: /quetzaltenango/adonai/
-shop: Allgemein
+shop: general
 ---

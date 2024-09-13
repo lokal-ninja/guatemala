@@ -1,5 +1,5 @@
 ---
 title: "Chooghurt"
 url: /quetzaltenango/chooghurt/
-shop: Allgemein
+shop: general
 ---

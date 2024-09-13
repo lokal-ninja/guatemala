@@ -1,5 +1,5 @@
 ---
 title: "Reconstructora de Motores Chaj"
 url: /villa-nueva/reconstructora-de-motores-chaj/
-shop: Allgemein
+shop: general
 ---

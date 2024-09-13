@@ -1,5 +1,5 @@
 ---
 title: "Dollarcity"
 url: /zona-16/dollarcity/
-shop: Warenhaus
+shop: grandes almacenes
 ---

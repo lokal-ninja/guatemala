@@ -1,5 +1,5 @@
 ---
 title: "Penki"
 url: /mazatenango/penki/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

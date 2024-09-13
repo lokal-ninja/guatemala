@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /mixco/claro/
-shop: Handy
+shop: teléfono móvil
 ---

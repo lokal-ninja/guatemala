@@ -1,5 +1,5 @@
 ---
 title: "China Town"
 url: /ciudad-de-guatemala/china-town/
-shop: Warenhaus
+shop: grandes almacenes
 ---

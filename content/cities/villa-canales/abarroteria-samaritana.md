@@ -1,5 +1,5 @@
 ---
-title: "Abarroteria Samaritana"
+title: "Abarrotería Samaritana"
 url: /villa-canales/abarroteria-samaritana/
-shop: Lebensmittel
+shop: comodidad
 ---

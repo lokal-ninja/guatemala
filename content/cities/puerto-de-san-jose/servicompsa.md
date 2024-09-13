@@ -1,5 +1,5 @@
 ---
 title: "Servicompsa"
 url: /puerto-de-san-jose/servicompsa/
-shop: Computer
+shop: ordenador
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Bodegona"
 url: /antigua-guatemala/la-bodegona/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda Saul"
 url: /cuyotenango/tienda-saul/
-shop: Allgemein
+shop: general
 ---

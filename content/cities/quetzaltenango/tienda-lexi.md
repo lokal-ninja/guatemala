@@ -1,5 +1,5 @@
 ---
 title: "Tienda Lexi"
 url: /quetzaltenango/tienda-lexi/
-shop: Allgemein
+shop: general
 ---

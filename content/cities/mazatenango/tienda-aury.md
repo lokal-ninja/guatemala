@@ -1,5 +1,5 @@
 ---
 title: "Tienda Aury"
 url: /mazatenango/tienda-aury/
-shop: Lebensmittel
+shop: comodidad
 ---

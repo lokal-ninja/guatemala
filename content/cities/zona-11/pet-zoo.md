@@ -1,5 +1,5 @@
 ---
 title: "Pet Zoo"
 url: /zona-11/pet-zoo/
-shop: Tiersalon
+shop: peluquería canina
 ---

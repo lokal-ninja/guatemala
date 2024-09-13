@@ -1,5 +1,5 @@
 ---
 title: "Serigrafía Iseo"
 url: /mixco/serigrafia-iseo/
-shop: Eisenwaren
+shop: hardware
 ---

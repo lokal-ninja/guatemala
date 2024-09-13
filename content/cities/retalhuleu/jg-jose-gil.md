@@ -1,5 +1,5 @@
 ---
 title: "JG Jose Gil"
 url: /retalhuleu/jg-jose-gil/
-shop: Drogerie
+shop: farmacia
 ---

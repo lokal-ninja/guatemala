@@ -1,5 +1,5 @@
 ---
 title: "Intelaf"
 url: /mazatenango/intelaf/
-shop: Computer
+shop: ordenador
 ---

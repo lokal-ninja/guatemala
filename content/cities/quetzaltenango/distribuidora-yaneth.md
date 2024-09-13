@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Yaneth"
 url: /quetzaltenango/distribuidora-yaneth/
-shop: Allgemein
+shop: general
 ---

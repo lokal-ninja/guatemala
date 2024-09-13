@@ -1,5 +1,5 @@
 ---
 title: "Reconstructora Pepe"
 url: /san-miguel-petapa/reconstructora-pepe/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

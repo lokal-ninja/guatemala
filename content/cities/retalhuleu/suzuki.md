@@ -1,5 +1,5 @@
 ---
 title: "Suzuki"
 url: /retalhuleu/suzuki/
-shop: Motorrad
+shop: motocicleta
 ---

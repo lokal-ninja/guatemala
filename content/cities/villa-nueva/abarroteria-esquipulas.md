@@ -1,5 +1,5 @@
 ---
 title: "Abarroteria Esquipulas"
 url: /villa-nueva/abarroteria-esquipulas/
-shop: Lebensmittel
+shop: comodidad
 ---

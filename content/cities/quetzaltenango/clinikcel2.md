@@ -1,5 +1,5 @@
 ---
 title: "ClinikCel2"
 url: /quetzaltenango/clinikcel2/
-shop: Allgemein
+shop: general
 ---

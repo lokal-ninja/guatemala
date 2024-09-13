@@ -1,5 +1,5 @@
 ---
 title: "Jade"
 url: /antigua-guatemala/jade/
-shop: Schmuck
+shop: joyería
 ---

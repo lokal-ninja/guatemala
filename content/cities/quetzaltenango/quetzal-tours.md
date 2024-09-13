@@ -1,5 +1,5 @@
 ---
 title: "Quetzal Tours"
 url: /quetzaltenango/quetzal-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

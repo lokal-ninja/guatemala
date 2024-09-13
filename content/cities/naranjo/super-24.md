@@ -1,5 +1,5 @@
 ---
 title: "Super 24"
 url: /naranjo/super-24/
-shop: Supermarkt
+shop: supermercado
 ---

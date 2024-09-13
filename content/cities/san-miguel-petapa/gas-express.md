@@ -1,5 +1,5 @@
 ---
 title: "Gas Express"
 url: /san-miguel-petapa/gas-express/
-shop: Gasflaschen
+shop: gas
 ---

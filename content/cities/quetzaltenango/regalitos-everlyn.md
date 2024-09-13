@@ -1,5 +1,5 @@
 ---
 title: "Regalitos Everlyn"
 url: /quetzaltenango/regalitos-everlyn/
-shop: Andenken
+shop: regalo
 ---

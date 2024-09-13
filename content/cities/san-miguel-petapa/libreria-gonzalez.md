@@ -1,5 +1,5 @@
 ---
 title: "Libreria Gonzalez"
 url: /san-miguel-petapa/libreria-gonzalez/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Comercial Las Flores"
 url: /quetzaltenango/comercial-las-flores/
-shop: Allgemein
+shop: general
 ---

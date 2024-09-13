@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Portillo"
 url: /mixco/distribuidora-portillo/
-shop: Eisenwaren
+shop: hardware
 ---

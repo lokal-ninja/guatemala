@@ -1,5 +1,5 @@
 ---
 title: "Almacen Dorimar"
 url: /quetzaltenango/almacen-dorimar/
-shop: Allgemein
+shop: general
 ---

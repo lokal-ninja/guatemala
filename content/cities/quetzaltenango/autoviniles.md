@@ -1,5 +1,5 @@
 ---
 title: "Autoviniles"
 url: /quetzaltenango/autoviniles/
-shop: Allgemein
+shop: general
 ---

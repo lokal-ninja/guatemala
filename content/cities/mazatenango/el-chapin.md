@@ -1,5 +1,5 @@
 ---
 title: "El Chapin"
 url: /mazatenango/el-chapin/
-shop: Leiher
+shop: prestamista
 ---

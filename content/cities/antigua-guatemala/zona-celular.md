@@ -1,5 +1,5 @@
 ---
 title: "Zona Celular"
 url: /antigua-guatemala/zona-celular/
-shop: Handy
+shop: teléfono móvil
 ---

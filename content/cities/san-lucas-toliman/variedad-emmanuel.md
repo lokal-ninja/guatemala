@@ -1,5 +1,5 @@
 ---
 title: "Variedad Emmanuel"
 url: /san-lucas-toliman/variedad-emmanuel/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Llantas Express"
 url: /chiquimula/super-llantas-express/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

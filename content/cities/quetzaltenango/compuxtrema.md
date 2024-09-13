@@ -1,5 +1,5 @@
 ---
 title: "CompuXtrema"
 url: /quetzaltenango/compuxtrema/
-shop: Allgemein
+shop: general
 ---

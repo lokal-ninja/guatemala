@@ -1,5 +1,5 @@
 ---
 title: "Licores La Floresta"
 url: /quetzaltenango/licores-la-floresta/
-shop: Spirituosen
+shop: alcohol
 ---

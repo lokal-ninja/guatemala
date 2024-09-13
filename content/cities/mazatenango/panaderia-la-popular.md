@@ -1,5 +1,5 @@
 ---
 title: "Panadería La Popular"
 url: /mazatenango/panaderia-la-popular/
-shop: Bäckerei
+shop: panadería
 ---

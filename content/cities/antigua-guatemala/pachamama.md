@@ -1,5 +1,5 @@
 ---
 title: "Pachamama"
 url: /antigua-guatemala/pachamama/
-shop: Allgemein
+shop: general
 ---

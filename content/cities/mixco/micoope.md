@@ -1,5 +1,5 @@
 ---
 title: "MICOOPE"
 url: /mixco/micoope/
-shop: Leiher
+shop: prestamista
 ---

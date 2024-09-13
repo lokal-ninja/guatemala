@@ -1,5 +1,5 @@
 ---
 title: "Dollarcity"
 url: /jutiapa/dollarcity/
-shop: Supermarkt
+shop: supermercado
 ---

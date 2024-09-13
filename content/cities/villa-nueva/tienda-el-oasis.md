@@ -1,5 +1,5 @@
 ---
 title: "Tienda El Oasis"
 url: /villa-nueva/tienda-el-oasis/
-shop: Lebensmittel
+shop: comodidad
 ---

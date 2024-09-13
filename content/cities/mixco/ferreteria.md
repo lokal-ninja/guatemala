@@ -1,5 +1,5 @@
 ---
 title: "Ferretería"
 url: /mixco/ferreteria/
-shop: Eisenwaren
+shop: hardware
 ---

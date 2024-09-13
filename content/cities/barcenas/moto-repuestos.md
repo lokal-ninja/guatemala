@@ -1,5 +1,5 @@
 ---
 title: "Moto Repuestos"
 url: /barcenas/moto-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ADN Digital"
 url: /quetzaltenango/adn-digital/
-shop: Handy
+shop: teléfono móvil
 ---

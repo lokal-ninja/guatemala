@@ -1,5 +1,5 @@
 ---
 title: "Tortillería"
 url: /san-lucas-sacatepequez/tortilleria/
-shop: Allgemein
+shop: general
 ---

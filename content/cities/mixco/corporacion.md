@@ -1,5 +1,5 @@
 ---
 title: "Corporacion"
 url: /mixco/corporacion/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

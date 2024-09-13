@@ -1,5 +1,5 @@
 ---
 title: "LeMans"
 url: /piedra-parada/lemans/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

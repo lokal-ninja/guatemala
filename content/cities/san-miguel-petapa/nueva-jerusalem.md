@@ -1,5 +1,5 @@
 ---
 title: "Nueva Jerusalem"
 url: /san-miguel-petapa/nueva-jerusalem/
-shop: Kiosk
+shop: quiosco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Uniformes el Chaaj"
 url: /retalhuleu/uniformes-el-chaaj/
-shop: Kleidung
+shop: ropa
 ---

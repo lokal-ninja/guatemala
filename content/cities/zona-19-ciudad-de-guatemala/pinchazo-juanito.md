@@ -1,5 +1,5 @@
 ---
 title: "Pinchazo Juanito"
 url: /zona-19-ciudad-de-guatemala/pinchazo-juanito/
-shop: Autoteile
+shop: piezas de automóviles
 ---

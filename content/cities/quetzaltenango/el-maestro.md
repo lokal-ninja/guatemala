@@ -1,5 +1,5 @@
 ---
 title: "El Maestro"
 url: /quetzaltenango/el-maestro/
-shop: Allgemein
+shop: general
 ---

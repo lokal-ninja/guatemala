@@ -1,5 +1,5 @@
 ---
 title: "Estacion Morgan"
 url: /antigua-guatemala/estacion-morgan/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

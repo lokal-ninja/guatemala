@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Yessi"
 url: /quetzaltenango/distribuidora-yessi/
-shop: Eisenwaren
+shop: hardware
 ---

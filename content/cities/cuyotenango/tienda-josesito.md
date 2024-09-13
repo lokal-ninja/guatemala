@@ -1,5 +1,5 @@
 ---
 title: "Tienda Josesito"
 url: /cuyotenango/tienda-josesito/
-shop: Lebensmittel
+shop: comodidad
 ---

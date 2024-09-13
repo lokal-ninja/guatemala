@@ -1,5 +1,5 @@
 ---
 title: "Ferrertería El General"
 url: /mixco/ferrerteria-el-general/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hojas de Resorte"
 url: /quetzaltenango/hojas-de-resorte/
-shop: Allgemein
+shop: general
 ---

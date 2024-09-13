@@ -1,5 +1,5 @@
 ---
 title: "Celasa"
 url: /zona-11/celasa/
-shop: Eisenwaren
+shop: hardware
 ---

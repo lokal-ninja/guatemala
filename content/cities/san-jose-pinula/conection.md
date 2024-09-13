@@ -1,5 +1,5 @@
 ---
 title: "Conection"
 url: /san-jose-pinula/conection/
-shop: Handy
+shop: teléfono móvil
 ---

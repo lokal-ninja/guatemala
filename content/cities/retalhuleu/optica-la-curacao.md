@@ -1,5 +1,5 @@
 ---
 title: "Optica la Curacao"
 url: /retalhuleu/optica-la-curacao/
-shop: Optiker
+shop: óptico
 ---

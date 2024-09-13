@@ -1,5 +1,5 @@
 ---
 title: "Joselito"
 url: /quetzaltenango/joselito/
-shop: Instrumente
+shop: instrumento musical
 ---

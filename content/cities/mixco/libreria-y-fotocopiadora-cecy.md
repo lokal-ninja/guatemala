@@ -1,5 +1,5 @@
 ---
 title: "Librería y Fotocopiadora Cecy"
 url: /mixco/libreria-y-fotocopiadora-cecy/
-shop: Schreibwaren
+shop: material de oficina
 ---

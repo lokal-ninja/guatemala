@@ -1,5 +1,5 @@
 ---
 title: "Bazar Dayan"
 url: /mazatenango/bazar-dayan/
-shop: Allgemein
+shop: general
 ---

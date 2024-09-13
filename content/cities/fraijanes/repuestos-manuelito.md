@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Manuelito"
 url: /fraijanes/repuestos-manuelito/
-shop: Autoteile
+shop: piezas de automóviles
 ---

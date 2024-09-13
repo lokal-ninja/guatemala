@@ -1,5 +1,5 @@
 ---
 title: "Librería Alvarado"
 url: /mixco/libreria-alvarado/
-shop: Schreibwaren
+shop: material de oficina
 ---

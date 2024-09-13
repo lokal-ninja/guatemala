@@ -1,5 +1,5 @@
 ---
 title: "Tortilleria"
 url: /fraijanes/tortilleria/
-shop: Allgemein
+shop: general
 ---

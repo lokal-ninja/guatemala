@@ -1,5 +1,5 @@
 ---
 title: "Imprenta Quetzal"
 url: /retalhuleu/imprenta-quetzal/
-shop: Allgemein
+shop: general
 ---

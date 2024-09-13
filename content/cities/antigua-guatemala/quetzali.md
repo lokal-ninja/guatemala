@@ -1,5 +1,5 @@
 ---
 title: "Quetzalí"
 url: /antigua-guatemala/quetzali/
-shop: Reisebüro
+shop: agencia de viajes
 ---

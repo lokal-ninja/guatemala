@@ -1,5 +1,5 @@
 ---
 title: "Comercial Nueva Luna"
 url: /quetzaltenango/comercial-nueva-luna/
-shop: Warenhaus
+shop: grandes almacenes
 ---

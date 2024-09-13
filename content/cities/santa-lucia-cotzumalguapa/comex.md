@@ -1,5 +1,5 @@
 ---
 title: "Comex"
 url: /santa-lucia-cotzumalguapa/comex/
-shop: Farben
+shop: pintura
 ---

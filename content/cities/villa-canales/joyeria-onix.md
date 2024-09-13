@@ -1,5 +1,5 @@
 ---
-title: "Joyeria Onix"
+title: "Joyería Ónix"
 url: /villa-canales/joyeria-onix/
-shop: Schmuck
+shop: joyería
 ---

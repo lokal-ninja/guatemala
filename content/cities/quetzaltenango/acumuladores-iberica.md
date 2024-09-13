@@ -1,5 +1,5 @@
 ---
 title: "Acumuladores Iberica"
 url: /quetzaltenango/acumuladores-iberica/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

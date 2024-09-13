@@ -1,5 +1,5 @@
 ---
 title: "Vidrieria Ramirez"
 url: /escuintla/vidrieria-ramirez/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Antigua Tattoo"
 url: /antigua-guatemala/antigua-tattoo/
-shop: Tattoo
+shop: tatuaje
 ---

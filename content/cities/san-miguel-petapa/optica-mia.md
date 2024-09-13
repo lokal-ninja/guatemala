@@ -1,5 +1,5 @@
 ---
 title: "Optica Mia"
 url: /san-miguel-petapa/optica-mia/
-shop: Optiker
+shop: óptico
 ---

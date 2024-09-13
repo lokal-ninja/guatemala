@@ -1,5 +1,5 @@
 ---
 title: "Tienda Progreso"
 url: /zona-19-ciudad-de-guatemala/tienda-progreso/
-shop: Allgemein
+shop: general
 ---

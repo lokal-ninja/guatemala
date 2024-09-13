@@ -1,5 +1,5 @@
 ---
 title: "Automotriz Xela"
 url: /quetzaltanango/automotriz-xela/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

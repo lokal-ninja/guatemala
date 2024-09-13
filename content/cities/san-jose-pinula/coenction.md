@@ -1,5 +1,5 @@
 ---
 title: "Coenction"
 url: /san-jose-pinula/coenction/
-shop: Handy
+shop: teléfono móvil
 ---

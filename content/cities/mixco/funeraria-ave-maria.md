@@ -1,5 +1,5 @@
 ---
 title: "Funeraría Ave María"
 url: /mixco/funeraria-ave-maria/
-shop: Bestattungen
+shop: directores de funerarias
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Morales"
 url: /escuintla/morales/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

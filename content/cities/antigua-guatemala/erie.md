@@ -1,5 +1,5 @@
 ---
 title: "Erie"
 url: /antigua-guatemala/erie/
-shop: Reisebüro
+shop: agencia de viajes
 ---

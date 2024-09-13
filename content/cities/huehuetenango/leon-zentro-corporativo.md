@@ -1,5 +1,5 @@
 ---
 title: "LEON - Zentro Corporativo"
 url: /huehuetenango/leon-zentro-corporativo/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

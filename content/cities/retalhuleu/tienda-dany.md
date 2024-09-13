@@ -1,5 +1,5 @@
 ---
 title: "Tienda Dany"
 url: /retalhuleu/tienda-dany/
-shop: Allgemein
+shop: general
 ---

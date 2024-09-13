@@ -1,5 +1,5 @@
 ---
 title: "Pretty Lady"
 url: /quetzaltenango/pretty-lady/
-shop: Allgemein
+shop: general
 ---

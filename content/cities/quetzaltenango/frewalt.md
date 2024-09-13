@@ -1,5 +1,5 @@
 ---
 title: "Frewalt"
 url: /quetzaltenango/frewalt/
-shop: Autoteile
+shop: piezas de automóviles
 ---

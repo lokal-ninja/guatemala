@@ -1,5 +1,5 @@
 ---
 title: "Colombina"
 url: /antigua-guatemala/colombina/
-shop: Allgemein
+shop: general
 ---

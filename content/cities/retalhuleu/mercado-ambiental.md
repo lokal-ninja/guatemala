@@ -1,5 +1,5 @@
 ---
 title: "Mercado Ambiental"
 url: /retalhuleu/mercado-ambiental/
-shop: Allgemein
+shop: general
 ---

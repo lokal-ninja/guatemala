@@ -1,5 +1,5 @@
 ---
 title: "Joyas Y Mas"
 url: /escuintla/joyas-y-mas/
-shop: Kleidung
+shop: ropa
 ---

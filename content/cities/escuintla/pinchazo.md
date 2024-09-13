@@ -1,5 +1,5 @@
 ---
 title: "Pinchazo"
 url: /escuintla/pinchazo/
-shop: Reifen
+shop: neumáticos
 ---

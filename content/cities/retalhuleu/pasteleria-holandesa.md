@@ -1,5 +1,5 @@
 ---
 title: "Pastelería Holandesa"
 url: /retalhuleu/pasteleria-holandesa/
-shop: Bäckerei
+shop: panadería
 ---

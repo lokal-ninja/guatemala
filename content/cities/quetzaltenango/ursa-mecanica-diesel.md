@@ -1,5 +1,5 @@
 ---
 title: "Ursa Mecánica Diésel"
 url: /quetzaltenango/ursa-mecanica-diesel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

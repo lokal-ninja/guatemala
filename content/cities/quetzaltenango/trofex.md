@@ -1,5 +1,5 @@
 ---
 title: "Trofex"
 url: /quetzaltenango/trofex/
-shop: Pokal
+shop: trofeo
 ---

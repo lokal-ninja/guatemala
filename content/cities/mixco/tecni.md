@@ -1,5 +1,5 @@
 ---
 title: "Tecni"
 url: /mixco/tecni/
-shop: Autoteile
+shop: piezas de automóviles
 ---

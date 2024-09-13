@@ -1,5 +1,5 @@
 ---
 title: "Pops"
 url: /ciudad-de-guatemala/pops/
-shop: Allgemein
+shop: general
 ---

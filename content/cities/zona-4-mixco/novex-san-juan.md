@@ -1,5 +1,5 @@
 ---
 title: "Novex San Juan"
 url: /zona-4-mixco/novex-san-juan/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

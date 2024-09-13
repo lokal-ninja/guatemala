@@ -1,5 +1,5 @@
 ---
 title: "Tienda Sandrita"
 url: /villa-canales/tienda-sandrita/
-shop: Kiosk
+shop: quiosco
 ---

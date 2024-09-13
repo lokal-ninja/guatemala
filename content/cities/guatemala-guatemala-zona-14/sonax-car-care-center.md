@@ -1,5 +1,5 @@
 ---
 title: "Sonax Car Care Center"
 url: /guatemala-guatemala-zona-14/sonax-car-care-center/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

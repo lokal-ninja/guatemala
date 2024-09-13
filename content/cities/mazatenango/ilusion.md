@@ -1,5 +1,5 @@
 ---
 title: "Ilusion"
 url: /mazatenango/ilusion/
-shop: Kleidung
+shop: ropa
 ---

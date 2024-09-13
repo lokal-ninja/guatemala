@@ -1,5 +1,5 @@
 ---
 title: "Carbeth"
 url: /quetzaltenango/carbeth/
-shop: Allgemein
+shop: general
 ---

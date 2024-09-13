@@ -1,5 +1,5 @@
 ---
 title: "Tienda Genesis"
 url: /retalhuleu/tienda-genesis/
-shop: Allgemein
+shop: general
 ---

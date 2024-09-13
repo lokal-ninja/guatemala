@@ -1,5 +1,5 @@
 ---
 title: "Libreria La Economica"
 url: /villa-canales/libreria-la-economica/
-shop: Schreibwaren
+shop: material de oficina
 ---

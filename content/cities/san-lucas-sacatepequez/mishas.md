@@ -1,5 +1,5 @@
 ---
 title: "Misha's"
 url: /san-lucas-sacatepequez/mishas/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aborrotes Katy"
 url: /quetzaltenango/aborrotes-katy/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nauyoo"
 url: /quetzeltenango/nauyoo/
-shop: Allgemein
+shop: general
 ---

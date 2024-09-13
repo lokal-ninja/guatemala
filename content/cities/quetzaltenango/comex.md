@@ -1,5 +1,5 @@
 ---
 title: "Comex"
 url: /quetzaltenango/comex/
-shop: Farben
+shop: pintura
 ---

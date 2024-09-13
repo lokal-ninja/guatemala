@@ -1,5 +1,5 @@
 ---
 title: "Super Tienda San Jorge"
 url: /mazatenango/super-tienda-san-jorge/
-shop: Lebensmittel
+shop: comodidad
 ---

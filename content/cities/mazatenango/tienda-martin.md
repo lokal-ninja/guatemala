@@ -1,5 +1,5 @@
 ---
 title: "Tienda Martin"
 url: /mazatenango/tienda-martin/
-shop: Lebensmittel
+shop: comodidad
 ---

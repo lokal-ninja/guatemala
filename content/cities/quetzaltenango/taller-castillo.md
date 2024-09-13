@@ -1,5 +1,5 @@
 ---
 title: "Taller Castillo"
 url: /quetzaltenango/taller-castillo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

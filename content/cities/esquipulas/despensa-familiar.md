@@ -1,5 +1,5 @@
 ---
 title: "Despensa Familiar"
 url: /esquipulas/despensa-familiar/
-shop: Supermarkt
+shop: supermercado
 ---

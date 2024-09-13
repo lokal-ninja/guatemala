@@ -1,5 +1,5 @@
 ---
 title: "Luciany Salón"
 url: /ciudad-de-guatemala/luciany-salon/
-shop: Friseur
+shop: peluquería
 ---

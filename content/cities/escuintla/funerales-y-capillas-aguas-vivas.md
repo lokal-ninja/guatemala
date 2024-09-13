@@ -1,5 +1,5 @@
 ---
 title: "Funerales Y Capillas Aguas Vivas"
 url: /escuintla/funerales-y-capillas-aguas-vivas/
-shop: Bestattungen
+shop: directores de funerarias
 ---

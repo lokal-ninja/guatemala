@@ -1,5 +1,5 @@
 ---
 title: "Fotocopias Edu"
 url: /san-jose-pinula/fotocopias-edu/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Masesa"
 url: /villa-nueva/masesa/
-shop: Motorrad
+shop: motocicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Miski"
 url: /santa-catarina-pinula/miski/
-shop: Lebensmittel
+shop: comodidad
 ---

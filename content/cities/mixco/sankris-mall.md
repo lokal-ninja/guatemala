@@ -1,5 +1,5 @@
 ---
 title: "SanKris Mall"
 url: /mixco/sankris-mall/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

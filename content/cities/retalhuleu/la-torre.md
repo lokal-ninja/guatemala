@@ -1,5 +1,5 @@
 ---
 title: "La Torre"
 url: /retalhuleu/la-torre/
-shop: Supermarkt
+shop: supermercado
 ---

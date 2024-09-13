@@ -1,5 +1,5 @@
 ---
 title: "Bodega de Camas"
 url: /cuyotenango/bodega-de-camas/
-shop: Möbel
+shop: muebles
 ---

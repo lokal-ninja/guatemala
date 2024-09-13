@@ -1,5 +1,5 @@
 ---
 title: "Maes"
 url: /antigua-guatemala/maes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

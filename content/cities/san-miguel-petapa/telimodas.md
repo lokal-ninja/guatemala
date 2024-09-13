@@ -1,5 +1,5 @@
 ---
 title: "Telimodas"
 url: /san-miguel-petapa/telimodas/
-shop: Allgemein
+shop: general
 ---

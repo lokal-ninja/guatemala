@@ -1,5 +1,5 @@
 ---
 title: "FAQXela"
 url: /quetzaltenango/faqxela/
-shop: Schreibwaren
+shop: material de oficina
 ---

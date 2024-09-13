@@ -1,5 +1,5 @@
 ---
 title: "Xela Pet's"
 url: /quetzaltenango/xela-pets/
-shop: Tiere
+shop: mascotas
 ---

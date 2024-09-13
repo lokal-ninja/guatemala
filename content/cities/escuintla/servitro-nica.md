@@ -1,5 +1,5 @@
 ---
 title: "Servitro Nica"
 url: /escuintla/servitro-nica/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Realice"
 url: /retalhuleu/realice/
-shop: Warenhaus
+shop: grandes almacenes
 ---

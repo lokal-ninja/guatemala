@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Elim"
 url: /quetzaltenango/distribuidora-elim/
-shop: Allgemein
+shop: general
 ---

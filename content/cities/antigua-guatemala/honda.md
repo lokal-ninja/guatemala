@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /antigua-guatemala/honda/
-shop: Autohaus
+shop: coche
 ---

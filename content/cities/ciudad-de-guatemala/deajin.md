@@ -1,5 +1,5 @@
 ---
 title: "Deajin"
 url: /ciudad-de-guatemala/deajin/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Funerales Figueroa"
 url: /antigua-guatemala/funerales-figueroa/
-shop: Bestattungen
+shop: directores de funerarias
 ---

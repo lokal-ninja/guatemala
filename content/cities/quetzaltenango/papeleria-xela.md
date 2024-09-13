@@ -1,5 +1,5 @@
 ---
 title: "Papelería Xela"
 url: /quetzaltenango/papeleria-xela/
-shop: Schreibwaren
+shop: material de oficina
 ---

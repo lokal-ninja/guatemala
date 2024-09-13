@@ -1,5 +1,5 @@
 ---
 title: "Conection"
 url: /quetzaltenango/conection/
-shop: Allgemein
+shop: general
 ---

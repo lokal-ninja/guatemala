@@ -1,5 +1,5 @@
 ---
 title: "Dismasur"
 url: /escuintla/dismasur/
-shop: Eisenwaren
+shop: hardware
 ---

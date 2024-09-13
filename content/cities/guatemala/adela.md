@@ -1,5 +1,5 @@
 ---
 title: "Adela"
 url: /guatemala/adela/
-shop: Eisprodukte
+shop: helado
 ---

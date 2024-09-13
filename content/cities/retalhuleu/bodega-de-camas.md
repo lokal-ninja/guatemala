@@ -1,5 +1,5 @@
 ---
 title: "Bodega de Camas"
 url: /retalhuleu/bodega-de-camas/
-shop: Betten
+shop: cama
 ---

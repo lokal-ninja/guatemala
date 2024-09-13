@@ -1,5 +1,5 @@
 ---
 title: "Tienda San Jose"
 url: /quetzaltenango/tienda-san-jose/
-shop: Lebensmittel
+shop: comodidad
 ---

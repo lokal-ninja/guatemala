@@ -1,5 +1,5 @@
 ---
 title: "Tienda Tijuana"
 url: /antigua-guatemala/tienda-tijuana/
-shop: Kiosk
+shop: quiosco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dots"
 url: /mixco/dots/
-shop: Schreibwaren
+shop: material de oficina
 ---

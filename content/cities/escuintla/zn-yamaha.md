@@ -1,5 +1,5 @@
 ---
 title: "ZN Yamaha"
 url: /escuintla/zn-yamaha/
-shop: Motorrad
+shop: motocicleta
 ---

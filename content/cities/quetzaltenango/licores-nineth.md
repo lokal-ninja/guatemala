@@ -1,5 +1,5 @@
 ---
 title: "Licores Nineth"
 url: /quetzaltenango/licores-nineth/
-shop: Spirituosen
+shop: alcohol
 ---

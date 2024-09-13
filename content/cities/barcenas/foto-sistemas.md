@@ -1,5 +1,5 @@
 ---
 title: "Foto Sistemas"
 url: /barcenas/foto-sistemas/
-shop: Allgemein
+shop: general
 ---

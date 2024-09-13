@@ -1,5 +1,5 @@
 ---
 title: "Las Plazas Majadas"
 url: /guatemala-city/las-plazas-majadas/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

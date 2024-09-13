@@ -1,5 +1,5 @@
 ---
 title: "Armas"
 url: /guatemala-guatemala-zona-14/armas/
-shop: Waffen
+shop: armas
 ---

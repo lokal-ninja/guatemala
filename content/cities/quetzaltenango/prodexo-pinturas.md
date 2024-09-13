@@ -1,5 +1,5 @@
 ---
 title: "Prodexo Pinturas"
 url: /quetzaltenango/prodexo-pinturas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

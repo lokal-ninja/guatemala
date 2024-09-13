@@ -1,5 +1,5 @@
 ---
 title: "La Democracia"
 url: /quetzaltenango/la-democracia/
-shop: Schreibwaren
+shop: material de oficina
 ---

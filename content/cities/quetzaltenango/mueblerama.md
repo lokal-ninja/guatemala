@@ -1,5 +1,5 @@
 ---
 title: "Mueblerama"
 url: /quetzaltenango/mueblerama/
-shop: Möbel
+shop: muebles
 ---

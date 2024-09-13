@@ -1,5 +1,5 @@
 ---
 title: "Gas Ochoa"
 url: /quetzaltenango/gas-ochoa/
-shop: Gasflaschen
+shop: gas
 ---

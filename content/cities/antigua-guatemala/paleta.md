@@ -1,5 +1,5 @@
 ---
 title: "Paleta"
 url: /antigua-guatemala/paleta/
-shop: Allgemein
+shop: general
 ---

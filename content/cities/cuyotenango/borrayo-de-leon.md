@@ -1,5 +1,5 @@
 ---
 title: "Borrayo De Léon"
 url: /cuyotenango/borrayo-de-leon/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería La Cojulún"
 url: /mixco/ferreteria-la-cojulun/
-shop: Eisenwaren
+shop: hardware
 ---

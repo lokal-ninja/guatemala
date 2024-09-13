@@ -1,5 +1,5 @@
 ---
 title: "Way"
 url: /quetzaltenango/way-avenida-las-americas/
-shop: Warenhaus
+shop: grandes almacenes
 ---

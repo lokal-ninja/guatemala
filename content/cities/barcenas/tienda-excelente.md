@@ -1,5 +1,5 @@
 ---
 title: "Tienda Excelente"
 url: /barcenas/tienda-excelente/
-shop: Kiosk
+shop: quiosco
 ---

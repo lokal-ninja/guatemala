@@ -1,5 +1,5 @@
 ---
 title: "Sarita"
 url: /antigua-guatemala/sarita/
-shop: Eisprodukte
+shop: helado
 ---

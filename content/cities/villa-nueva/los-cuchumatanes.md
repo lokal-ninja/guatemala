@@ -1,5 +1,5 @@
 ---
 title: "Los Cuchumatanes"
 url: /villa-nueva/los-cuchumatanes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

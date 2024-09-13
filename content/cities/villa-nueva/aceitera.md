@@ -1,5 +1,5 @@
 ---
 title: "Aceitera"
 url: /villa-nueva/aceitera/
-shop: Allgemein
+shop: general
 ---

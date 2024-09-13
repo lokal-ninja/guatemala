@@ -1,5 +1,5 @@
 ---
 title: "AutoMan"
 url: /quetzaltenango/automan/
-shop: Autoteile
+shop: piezas de automóviles
 ---

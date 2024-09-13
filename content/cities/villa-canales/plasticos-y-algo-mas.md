@@ -1,5 +1,5 @@
 ---
 title: "Plasticos y Algo Mas"
 url: /villa-canales/plasticos-y-algo-mas/
-shop: Allgemein
+shop: general
 ---

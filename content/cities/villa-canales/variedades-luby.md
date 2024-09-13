@@ -1,5 +1,5 @@
 ---
 title: "Variedades Luby"
 url: /villa-canales/variedades-luby/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda Ebenezer"
 url: /san-lucas-toliman/tienda-ebenezer/
-shop: Allgemein
+shop: general
 ---

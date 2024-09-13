@@ -1,5 +1,5 @@
 ---
 title: "Tienda Vyki"
 url: /fraijanes/tienda-vyki/
-shop: Kiosk
+shop: quiosco
 ---

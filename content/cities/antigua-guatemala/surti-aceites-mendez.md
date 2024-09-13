@@ -1,5 +1,5 @@
 ---
 title: "Surti Aceites Mendez"
 url: /antigua-guatemala/surti-aceites-mendez/
-shop: Autoteile
+shop: piezas de automóviles
 ---

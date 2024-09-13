@@ -1,5 +1,5 @@
 ---
 title: "Pinturas Sega"
 url: /quetzaltenango/pinturas-sega/
-shop: Farben
+shop: pintura
 ---

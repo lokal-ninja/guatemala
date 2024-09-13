@@ -1,5 +1,5 @@
 ---
 title: "Impocar"
 url: /quetzaltenango/impocar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

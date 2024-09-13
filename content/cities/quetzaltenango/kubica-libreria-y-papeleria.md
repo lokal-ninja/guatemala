@@ -1,5 +1,5 @@
 ---
 title: "Kubica Librería y Papelería"
 url: /quetzaltenango/kubica-libreria-y-papeleria/
-shop: Schreibwaren
+shop: material de oficina
 ---

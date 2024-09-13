@@ -1,5 +1,5 @@
 ---
 title: "Antika SPA"
 url: /antigua-guatemala/antika-spa/
-shop: Massage
+shop: masaje
 ---

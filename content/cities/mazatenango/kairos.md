@@ -1,5 +1,5 @@
 ---
 title: "Kairos"
 url: /mazatenango/kairos/
-shop: Bücher
+shop: libros
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora San Jose"
 url: /san-jose-pinula/distribuidora-san-jose/
-shop: Allgemein
+shop: general
 ---

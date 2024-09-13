@@ -1,5 +1,5 @@
 ---
 title: "Domingo"
 url: /cuyotenango/domingo/
-shop: Lebensmittel
+shop: comodidad
 ---

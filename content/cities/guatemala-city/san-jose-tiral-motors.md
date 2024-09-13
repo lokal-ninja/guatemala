@@ -1,5 +1,5 @@
 ---
 title: "San Jose Tiral Motors"
 url: /guatemala-city/san-jose-tiral-motors/
-shop: Autoteile
+shop: piezas de automóviles
 ---

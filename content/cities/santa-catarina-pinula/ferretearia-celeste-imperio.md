@@ -1,5 +1,5 @@
 ---
 title: "Ferretearía Celeste Imperio"
 url: /santa-catarina-pinula/ferretearia-celeste-imperio/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Variedades Marthita"
 url: /san-jose-pinula/variedades-marthita/
-shop: Kramladen
+shop: tienda de variedades
 ---

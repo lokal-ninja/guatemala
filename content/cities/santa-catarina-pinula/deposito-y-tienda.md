@@ -1,5 +1,5 @@
 ---
 title: "Depósito y tienda"
 url: /santa-catarina-pinula/deposito-y-tienda/
-shop: Großhandel
+shop: mayorista
 ---

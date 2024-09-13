@@ -1,5 +1,5 @@
 ---
 title: "Tienda Natividad"
 url: /mazatenango/tienda-natividad/
-shop: Lebensmittel
+shop: comodidad
 ---

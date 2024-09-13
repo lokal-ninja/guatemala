@@ -1,5 +1,5 @@
 ---
 title: "Tienda Las Orquideas"
 url: /san-sebastian/tienda-las-orquideas/
-shop: Kiosk
+shop: quiosco
 ---

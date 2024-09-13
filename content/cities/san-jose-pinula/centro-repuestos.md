@@ -1,5 +1,5 @@
 ---
 title: "Centro Repuestos"
 url: /san-jose-pinula/centro-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

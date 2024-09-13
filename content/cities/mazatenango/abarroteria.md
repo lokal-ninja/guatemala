@@ -1,5 +1,5 @@
 ---
 title: "Abarroteria"
 url: /mazatenango/abarroteria/
-shop: Lebensmittel
+shop: comodidad
 ---

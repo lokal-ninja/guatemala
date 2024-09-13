@@ -1,5 +1,5 @@
 ---
 title: "El Patio"
 url: /antigua-guatemala/el-patio/
-shop: Antiquitäten
+shop: antigüedades
 ---

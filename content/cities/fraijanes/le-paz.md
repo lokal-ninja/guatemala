@@ -1,5 +1,5 @@
 ---
 title: "Le Paz"
 url: /fraijanes/le-paz/
-shop: Motorrad
+shop: motocicleta
 ---

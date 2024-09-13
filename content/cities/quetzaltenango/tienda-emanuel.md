@@ -1,5 +1,5 @@
 ---
 title: "Tienda Emanuel"
 url: /quetzaltenango/tienda-emanuel/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda Karen"
 url: /quetzaltenango/tienda-karen/
-shop: Allgemein
+shop: general
 ---

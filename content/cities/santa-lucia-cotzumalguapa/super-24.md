@@ -1,5 +1,5 @@
 ---
 title: "Super 24"
 url: /santa-lucia-cotzumalguapa/super-24/
-shop: Supermarkt
+shop: supermercado
 ---

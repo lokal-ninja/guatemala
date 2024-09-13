@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Conquistador"
 url: /quetzaltenango/repuestos-conquistador/
-shop: Autoteile
+shop: piezas de automóviles
 ---

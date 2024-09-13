@@ -1,5 +1,5 @@
 ---
 title: "Hardware Computacion"
 url: /retalhuleu/hardware-computacion/
-shop: Eisenwaren
+shop: hardware
 ---

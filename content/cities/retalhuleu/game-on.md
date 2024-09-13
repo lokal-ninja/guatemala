@@ -1,5 +1,5 @@
 ---
 title: "Game On"
 url: /retalhuleu/game-on/
-shop: Sport
+shop: deportes
 ---

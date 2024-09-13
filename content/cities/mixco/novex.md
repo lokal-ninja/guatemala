@@ -1,5 +1,5 @@
 ---
 title: "Novex"
 url: /mixco/novex/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

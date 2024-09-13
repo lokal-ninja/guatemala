@@ -1,5 +1,5 @@
 ---
 title: "Lavanderia Summer"
 url: /antigua-guatemala/lavanderia-summer/
-shop: Wäscherei
+shop: lavandería
 ---

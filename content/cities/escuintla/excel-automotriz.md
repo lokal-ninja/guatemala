@@ -1,5 +1,5 @@
 ---
 title: "Excel Automotriz"
 url: /escuintla/excel-automotriz/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto Repuestos Ramiro"
 url: /san-jose-pinula/auto-repuestos-ramiro/
-shop: Autoteile
+shop: piezas de automóviles
 ---

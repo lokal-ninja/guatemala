@@ -1,5 +1,5 @@
 ---
 title: "Dicama"
 url: /mazatenango/dicama/
-shop: Autoteile
+shop: piezas de automóviles
 ---

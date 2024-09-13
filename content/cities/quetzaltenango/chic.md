@@ -1,5 +1,5 @@
 ---
 title: "Chic"
 url: /quetzaltenango/chic/
-shop: Kosmetik
+shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plaza San Fernando"
 url: /guatemala/plaza-san-fernando/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

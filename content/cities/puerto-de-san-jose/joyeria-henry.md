@@ -1,5 +1,5 @@
 ---
 title: "Joyería Henry"
 url: /puerto-de-san-jose/joyeria-henry/
-shop: Schmuck
+shop: joyería
 ---

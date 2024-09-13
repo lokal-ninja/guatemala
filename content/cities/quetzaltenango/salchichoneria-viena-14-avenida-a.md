@@ -1,5 +1,5 @@
 ---
 title: "Salchichonería Viena"
 url: /quetzaltenango/salchichoneria-viena-14-avenida-a/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Progresiva"
 url: /quetzaltenango/progresiva/
-shop: Kleidung
+shop: ropa
 ---

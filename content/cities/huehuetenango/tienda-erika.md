@@ -1,5 +1,5 @@
 ---
 title: "tienda Erika"
 url: /huehuetenango/tienda-erika/
-shop: Kramladen
+shop: tienda de variedades
 ---

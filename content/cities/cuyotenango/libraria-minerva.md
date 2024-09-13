@@ -1,5 +1,5 @@
 ---
 title: "Libraria Minerva"
 url: /cuyotenango/libraria-minerva/
-shop: Bücher
+shop: libros
 ---

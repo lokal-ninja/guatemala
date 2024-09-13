@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Samy"
 url: /san-miguel-petapa/distribuidora-samy/
-shop: Allgemein
+shop: general
 ---

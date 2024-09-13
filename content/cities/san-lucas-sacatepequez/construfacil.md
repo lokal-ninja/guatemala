@@ -1,5 +1,5 @@
 ---
 title: "ConstruFácil"
 url: /san-lucas-sacatepequez/construfacil/
-shop: Eisenwaren
+shop: hardware
 ---

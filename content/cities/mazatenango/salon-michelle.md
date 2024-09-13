@@ -1,5 +1,5 @@
 ---
 title: "Salon Michelle"
 url: /mazatenango/salon-michelle/
-shop: Friseur
+shop: peluquería
 ---

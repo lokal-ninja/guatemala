@@ -1,5 +1,5 @@
 ---
 title: "Variedades Arriola"
 url: /antigua-guatemala/variedades-arriola/
-shop: Kramladen
+shop: tienda de variedades
 ---

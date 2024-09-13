@@ -1,5 +1,5 @@
 ---
 title: "Olam"
 url: /quetzaltenango/olam/
-shop: Handy
+shop: teléfono móvil
 ---

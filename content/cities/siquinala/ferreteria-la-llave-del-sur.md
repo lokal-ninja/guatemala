@@ -1,5 +1,5 @@
 ---
 title: "Ferretería La LLave Del Sur"
 url: /siquinala/ferreteria-la-llave-del-sur/
-shop: Eisenwaren
+shop: hardware
 ---

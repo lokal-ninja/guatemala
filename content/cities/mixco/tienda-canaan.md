@@ -1,5 +1,5 @@
 ---
 title: "Tienda Canaán"
 url: /mixco/tienda-canaan/
-shop: Kiosk
+shop: quiosco
 ---

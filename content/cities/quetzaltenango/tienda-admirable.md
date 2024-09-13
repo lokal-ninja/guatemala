@@ -1,5 +1,5 @@
 ---
 title: "Tienda Admirable"
 url: /quetzaltenango/tienda-admirable/
-shop: Allgemein
+shop: general
 ---

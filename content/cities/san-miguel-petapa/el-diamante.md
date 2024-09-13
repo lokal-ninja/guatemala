@@ -1,5 +1,5 @@
 ---
 title: "El Diamante"
 url: /san-miguel-petapa/el-diamante/
-shop: Eisenwaren
+shop: hardware
 ---

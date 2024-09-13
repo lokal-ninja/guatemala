@@ -1,5 +1,5 @@
 ---
 title: "Mundo Infantil"
 url: /retalhuleu/mundo-infantil/
-shop: Babysachen
+shop: artículos para bebés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motul"
 url: /mazatenango/motul/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Palmeras"
 url: /escuintla/palmeras/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

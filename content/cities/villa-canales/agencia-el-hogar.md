@@ -1,5 +1,5 @@
 ---
 title: "Agencia El Hogar"
 url: /villa-canales/agencia-el-hogar/
-shop: Allgemein
+shop: general
 ---

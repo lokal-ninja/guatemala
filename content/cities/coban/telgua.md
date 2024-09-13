@@ -1,5 +1,5 @@
 ---
 title: "Telgua"
 url: /coban/telgua/
-shop: Handy
+shop: teléfono móvil
 ---

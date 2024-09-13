@@ -1,5 +1,5 @@
 ---
 title: "Acquaroni"
 url: /puerta-parada/acquaroni/
-shop: Autoteile
+shop: piezas de automóviles
 ---

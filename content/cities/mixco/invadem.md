@@ -1,5 +1,5 @@
 ---
 title: "INVADEM"
 url: /mixco/invadem/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

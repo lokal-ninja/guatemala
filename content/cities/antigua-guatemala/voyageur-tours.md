@@ -1,5 +1,5 @@
 ---
 title: "Voyageur Tours"
 url: /antigua-guatemala/voyageur-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

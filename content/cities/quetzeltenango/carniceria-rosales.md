@@ -1,5 +1,5 @@
 ---
 title: "Carniceria Rosales"
 url: /quetzeltenango/carniceria-rosales/
-shop: Metzgerei
+shop: carnicero
 ---

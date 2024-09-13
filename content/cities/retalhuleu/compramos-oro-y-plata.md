@@ -1,5 +1,5 @@
 ---
 title: "Compramos Oro y Plata"
 url: /retalhuleu/compramos-oro-y-plata/
-shop: Kleidung
+shop: ropa
 ---

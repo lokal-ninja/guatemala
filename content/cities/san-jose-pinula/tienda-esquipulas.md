@@ -1,5 +1,5 @@
 ---
 title: "Tienda Esquipulas"
 url: /san-jose-pinula/tienda-esquipulas/
-shop: Allgemein
+shop: general
 ---

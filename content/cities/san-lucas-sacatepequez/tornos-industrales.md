@@ -1,5 +1,5 @@
 ---
 title: "Tornos Industrales"
 url: /san-lucas-sacatepequez/tornos-industrales/
-shop: Eisenwaren
+shop: hardware
 ---

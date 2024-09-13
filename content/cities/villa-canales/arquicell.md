@@ -1,5 +1,5 @@
 ---
 title: "Arquicell"
 url: /villa-canales/arquicell/
-shop: Handy
+shop: teléfono móvil
 ---

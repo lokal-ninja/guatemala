@@ -1,5 +1,5 @@
 ---
 title: "Óptica Imagen"
 url: /mixco/optica-imagen/
-shop: Optiker
+shop: óptico
 ---

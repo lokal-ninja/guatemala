@@ -1,5 +1,5 @@
 ---
 title: "Vitatrack"
 url: /quetzaltenango/vitatrack/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

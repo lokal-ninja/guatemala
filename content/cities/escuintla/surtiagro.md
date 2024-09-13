@@ -1,5 +1,5 @@
 ---
 title: "Surtiagro"
 url: /escuintla/surtiagro/
-shop: Tiere
+shop: mascotas
 ---

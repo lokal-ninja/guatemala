@@ -1,5 +1,5 @@
 ---
 title: "Don Pepe"
 url: /mazatenango/don-pepe/
-shop: Allgemein
+shop: general
 ---

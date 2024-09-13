@@ -1,5 +1,5 @@
 ---
 title: "Aceitera Idea"
 url: /retalhuleu/aceitera-idea/
-shop: Autoteile
+shop: piezas de automóviles
 ---

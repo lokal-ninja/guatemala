@@ -1,5 +1,5 @@
 ---
 title: "Gas Express"
 url: /mazatenango/gas-express/
-shop: Gasflaschen
+shop: gas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arquitectura Leppe"
 url: /patulul/arquitectura-leppe/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

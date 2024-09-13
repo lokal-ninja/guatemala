@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Acquaroni"
 url: /escuintla/repuestos-acquaroni/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

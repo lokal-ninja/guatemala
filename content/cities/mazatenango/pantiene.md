@@ -1,5 +1,5 @@
 ---
 title: "Pantiene"
 url: /mazatenango/pantiene/
-shop: Lebensmittel
+shop: comodidad
 ---

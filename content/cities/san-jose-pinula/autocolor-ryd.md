@@ -1,5 +1,5 @@
 ---
 title: "Autocolor RYD"
 url: /san-jose-pinula/autocolor-ryd/
-shop: Schreibwaren
+shop: material de oficina
 ---

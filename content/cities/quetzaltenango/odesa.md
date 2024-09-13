@@ -1,5 +1,5 @@
 ---
 title: "Odesa"
 url: /quetzaltenango/odesa/
-shop: Allgemein
+shop: general
 ---

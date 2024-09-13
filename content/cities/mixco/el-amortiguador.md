@@ -1,5 +1,5 @@
 ---
 title: "El Amortiguador"
 url: /mixco/el-amortiguador/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

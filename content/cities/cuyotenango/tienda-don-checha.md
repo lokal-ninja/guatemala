@@ -1,5 +1,5 @@
 ---
 title: "Tienda Don Checha"
 url: /cuyotenango/tienda-don-checha/
-shop: Lebensmittel
+shop: comodidad
 ---

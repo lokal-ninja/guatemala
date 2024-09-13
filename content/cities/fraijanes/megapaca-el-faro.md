@@ -1,5 +1,5 @@
 ---
 title: "Megapaca El Faro"
 url: /fraijanes/megapaca-el-faro/
-shop: Kleidung
+shop: ropa
 ---

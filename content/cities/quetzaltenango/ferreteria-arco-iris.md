@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Arco Iris"
 url: /quetzaltenango/ferreteria-arco-iris/
-shop: Eisenwaren
+shop: hardware
 ---

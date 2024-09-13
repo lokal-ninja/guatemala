@@ -1,5 +1,5 @@
 ---
 title: "Cafe Maria Luisa"
 url: /mazatenango/cafe-maria-luisa/
-shop: Lebensmittel
+shop: comodidad
 ---

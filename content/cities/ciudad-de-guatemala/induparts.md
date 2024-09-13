@@ -1,5 +1,5 @@
 ---
 title: "Induparts"
 url: /ciudad-de-guatemala/induparts/
-shop: Autoteile
+shop: piezas de automóviles
 ---

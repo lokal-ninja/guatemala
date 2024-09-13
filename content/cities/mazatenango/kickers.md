@@ -1,5 +1,5 @@
 ---
 title: "Kickers"
 url: /mazatenango/kickers/
-shop: Schuhe
+shop: zapatos
 ---

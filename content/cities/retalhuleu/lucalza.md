@@ -1,5 +1,5 @@
 ---
 title: "Lucalza"
 url: /retalhuleu/lucalza/
-shop: Autoteile
+shop: piezas de automóviles
 ---

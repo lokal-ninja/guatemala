@@ -1,5 +1,5 @@
 ---
 title: "Servicat"
 url: /villa-canales/servicat/
-shop: Autoteile
+shop: piezas de automóviles
 ---

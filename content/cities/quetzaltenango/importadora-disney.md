@@ -1,5 +1,5 @@
 ---
 title: "Importadora Disney"
 url: /quetzaltenango/importadora-disney/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blessings"
 url: /villa-canales/blessings/
-shop: Friseur
+shop: peluquería
 ---

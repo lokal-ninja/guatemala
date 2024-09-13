@@ -1,5 +1,5 @@
 ---
 title: "Outdoor Excursions"
 url: /antigua-guatemala/outdoor-excursions/
-shop: Reisebüro
+shop: agencia de viajes
 ---

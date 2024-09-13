@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Rueda"
 url: /mixco/repuestos-rueda/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

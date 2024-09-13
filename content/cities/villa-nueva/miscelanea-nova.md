@@ -1,5 +1,5 @@
 ---
 title: "Miscelánea Nova"
 url: /villa-nueva/miscelanea-nova/
-shop: Kramladen
+shop: tienda de variedades
 ---

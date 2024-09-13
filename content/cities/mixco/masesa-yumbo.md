@@ -1,5 +1,5 @@
 ---
 title: "Masesa Yumbo"
 url: /mixco/masesa-yumbo/
-shop: Motorrad
+shop: motocicleta
 ---

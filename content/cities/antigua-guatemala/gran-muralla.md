@@ -1,5 +1,5 @@
 ---
 title: "Gran Muralla"
 url: /antigua-guatemala/gran-muralla/
-shop: Allgemein
+shop: general
 ---

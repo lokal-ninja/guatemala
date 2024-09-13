@@ -1,5 +1,5 @@
 ---
 title: "Copartes GT"
 url: /mixco/copartes-gt/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

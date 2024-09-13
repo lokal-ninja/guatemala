@@ -1,5 +1,5 @@
 ---
 title: "Anfora"
 url: /mazatenango/anfora/
-shop: Allgemein
+shop: general
 ---

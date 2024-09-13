@@ -1,5 +1,5 @@
 ---
 title: "Importadora Mundial"
 url: /quetzaltenango/importadora-mundial/
-shop: Allgemein
+shop: general
 ---

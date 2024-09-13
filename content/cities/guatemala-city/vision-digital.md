@@ -1,5 +1,5 @@
 ---
 title: "Visión Digital"
 url: /guatemala-city/vision-digital/
-shop: Kopieren
+shop: copyshop
 ---

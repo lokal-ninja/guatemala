@@ -1,5 +1,5 @@
 ---
 title: "Centro de Servicio LTH"
 url: /ciudad-de-guatemala/centro-de-servicio-lth/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

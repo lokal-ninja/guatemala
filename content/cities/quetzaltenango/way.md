@@ -1,5 +1,5 @@
 ---
 title: "Way"
 url: /quetzaltenango/way/
-shop: Allgemein
+shop: general
 ---

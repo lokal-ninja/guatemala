@@ -1,5 +1,5 @@
 ---
 title: "Fátima"
 url: /santa-catarina-pinula/fatima/
-shop: Kramladen
+shop: tienda de variedades
 ---

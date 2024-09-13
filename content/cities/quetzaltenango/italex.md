@@ -1,5 +1,5 @@
 ---
 title: "Italex"
 url: /quetzaltenango/italex/
-shop: Allgemein
+shop: general
 ---
