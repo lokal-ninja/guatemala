@@ -1,11 +1,11 @@
 id: 402421188
-type: way
+type: node
 latitude: 14.55632
 longitude: -90.73447
 postcode: ""
 city: Antigua Guatemala
-street: "5a Calle Poniente"
-housenumber: 2
-phone: "+502 5548-0435"
+street: 5a Calle Poniente
+housenumber: "2"
+phone: +502 5548-0435
 opening_hours: ""
-website: "http://www.travel-maya.com"
+website: http://www.travel-maya.com

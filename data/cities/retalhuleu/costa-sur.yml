@@ -1,11 +1,11 @@
 id: 404303409
-type: way
+type: node
 latitude: 14.53699
 longitude: -91.67601
 postcode: ""
 city: Retalhuleu
-street: "7a Avenida Zona 1"
-housenumber: 753
+street: 7a Avenida Zona 1
+housenumber: "753"
 phone: ""
 opening_hours: ""
 website: ""

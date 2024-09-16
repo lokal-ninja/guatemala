@@ -1,11 +1,11 @@
 id: 400276150
-type: way
+type: node
 latitude: 13.89241
 longitude: -90.48154
 postcode: ""
 city: Monterrico
-street: "Calle Principal"
-housenumber: 
+street: Calle Principal
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

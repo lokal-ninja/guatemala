@@ -1,11 +1,11 @@
 id: 402475698
-type: way
+type: node
 latitude: 14.55908
 longitude: -90.73635
 postcode: ""
 city: Antigua Guatemala
-street: "7a Avenida Norte"
-housenumber: 44
+street: 7a Avenida Norte
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

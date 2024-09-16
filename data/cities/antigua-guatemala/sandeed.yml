@@ -1,11 +1,11 @@
 id: 402260369
-type: way
+type: node
 latitude: 14.56285
 longitude: -90.73537
 postcode: ""
 city: Antigua Guatemala
-street: "6a Avenida Norte"
-housenumber: 70
+street: 6a Avenida Norte
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

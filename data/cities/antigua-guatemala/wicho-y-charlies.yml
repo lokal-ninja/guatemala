@@ -4,8 +4,8 @@ latitude: 14.55944
 longitude: -90.73073
 postcode: "03001"
 city: Antigua Guatemala
-street: "2a Calle Oriente"
-housenumber: 2
+street: 2a Calle Oriente
+housenumber: "2"
 phone: "+50236218942"
-opening_hours: "Mo-Su 07:30-20:00"
-website: "https://www.wichoandcharlies.com/"
+opening_hours: Mo-Su 07:30-20:00
+website: https://www.wichoandcharlies.com/

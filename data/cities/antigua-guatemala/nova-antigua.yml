@@ -1,11 +1,11 @@
 id: 402760424
-type: way
+type: node
 latitude: 14.55835
 longitude: -90.72829
 postcode: ""
 city: Antigua Guatemala
-street: "Calle de los Carros"
-housenumber: 29
+street: Calle de los Carros
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

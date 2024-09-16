@@ -1,11 +1,11 @@
 id: 1003358562
-type: way
+type: node
 latitude: 14.51481
 longitude: -90.60535
 postcode: "01064"
 city: Villa Nueva
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 443329632
-type: way
+type: node
 latitude: 14.17712
 longitude: -90.83949
 postcode: ""
 city: Mar Alfaro II
-street: "5ta Calle"
-housenumber: 211
+street: 5ta Calle
+housenumber: "211"
 phone: ""
 opening_hours: ""
 website: ""

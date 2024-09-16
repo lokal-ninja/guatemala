@@ -1,11 +1,11 @@
 id: 402416573
-type: way
+type: node
 latitude: 14.55551
 longitude: -90.73545
 postcode: ""
 city: Antigua Guatemala
-street: "6a Avenida Sur"
-housenumber: 12
+street: 6a Avenida Sur
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 402225662
-type: way
+type: node
 latitude: 14.55855
 longitude: -90.73625
 postcode: ""
 city: Antigua Guatemala
-street: "7a Avenida Norte"
-housenumber: 3
-phone: "+502 5210 2585"
-opening_hours: "Mo-Su 09:00-18:00"
+street: 7a Avenida Norte
+housenumber: "3"
+phone: +502 5210 2585
+opening_hours: Mo-Su 09:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 14.57941
 longitude: -90.49673
 postcode: "01010"
 city: Guatemala zona 10
-street: "20 Calle"
-housenumber: Bodega #3
-phone: "+502 2310 8300"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.unionexport.com/"
+street: 20 Calle
+housenumber: 'Bodega #3'
+phone: +502 2310 8300
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.unionexport.com/

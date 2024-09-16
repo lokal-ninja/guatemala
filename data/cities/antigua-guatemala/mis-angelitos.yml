@@ -1,11 +1,11 @@
 id: 402531773
-type: way
+type: node
 latitude: 14.55614
 longitude: -90.73733
 postcode: ""
 city: Antigua Guatemala
-street: "5a Calle Poniente"
-housenumber: 2
+street: 5a Calle Poniente
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

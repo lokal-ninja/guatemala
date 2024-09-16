@@ -1,11 +1,11 @@
 id: 401682907
-type: way
+type: node
 latitude: 14.5556
 longitude: -90.73818
 postcode: ""
 city: Antigua Guatemala
-street: "Alameda Santa Lucía"
-housenumber: 12
+street: Alameda Santa Lucía
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

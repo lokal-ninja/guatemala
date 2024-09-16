@@ -1,11 +1,11 @@
 id: 402504539
-type: way
+type: node
 latitude: 14.55967
 longitude: -90.72965
 postcode: ""
 city: Antigua Guatemala
-street: "1a Avenida Norte"
-housenumber: 14
-phone: "+502 5992 4180"
-opening_hours: "Tu-Fr 08:00-15:00; Sa 09:00-15:00; Su 09:00-16:00"
-website: "https://www.canelaantigua.com/"
+street: 1a Avenida Norte
+housenumber: "14"
+phone: +502 5992 4180
+opening_hours: Tu-Fr 08:00-15:00; Sa 09:00-15:00; Su 09:00-16:00
+website: https://www.canelaantigua.com/

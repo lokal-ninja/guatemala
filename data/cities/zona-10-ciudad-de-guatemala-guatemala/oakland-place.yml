@@ -1,11 +1,11 @@
 id: 40767680
-type: way
+type: node
 latitude: 14.59855
 longitude: -90.50759
 postcode: "01010"
 city: Zona 10, Ciudad de Guatemala, Guatemala
-street: "Diagonal 6"
-housenumber: 
+street: Diagonal 6
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.oaklandmall.com.gt/"
+website: https://www.oaklandmall.com.gt/

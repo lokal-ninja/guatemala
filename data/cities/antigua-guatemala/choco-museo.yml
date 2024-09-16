@@ -4,8 +4,8 @@ latitude: 14.5574
 longitude: -90.7318
 postcode: ""
 city: Antigua Guatemala
-street: "4a Calle Oriente"
-housenumber: 14
+street: 4a Calle Oriente
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 10:30-18:30; Su 09:30-18:30"
-website: "https://www.chocomuseo.com/"
+opening_hours: Mo-Sa 10:30-18:30; Su 09:30-18:30
+website: https://www.chocomuseo.com/

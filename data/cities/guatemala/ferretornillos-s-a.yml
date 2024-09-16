@@ -1,11 +1,11 @@
 id: 417917688
-type: way
+type: node
 latitude: 14.60839
 longitude: -90.52822
 postcode: "01008"
 city: Guatemala
-street: "40 Calle A"
-housenumber: 40
+street: 40 Calle A
+housenumber: "40"
 phone: "24753960"
-opening_hours: "08:00-17:00"
-website: "https://www.ferretornillos.com/"
+opening_hours: 08:00-17:00
+website: https://www.ferretornillos.com/

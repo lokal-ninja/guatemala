@@ -1,11 +1,11 @@
 id: 652084786
-type: way
+type: node
 latitude: 14.64456
 longitude: -90.51726
 postcode: "01001"
 city: Ciudad de Guatemala
-street: "4a Calle A"
+street: 4a Calle A
 housenumber: 2-44 Zona 1
-phone: "+(502) 22516297"
-opening_hours: "Mo-Sa 08:00-20:00"
+phone: +(502) 22516297
+opening_hours: Mo-Sa 08:00-20:00
 website: ""
