@@ -1,6 +1,6 @@
 ---
 title: Quetzaltanango
 url: /quetzaltanango/
-latitude: 14.854
-longitude: -91.534
+latitude: 14.847
+longitude: -91.523
 ---
