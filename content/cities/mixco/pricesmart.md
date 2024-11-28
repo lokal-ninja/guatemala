@@ -1,5 +1,5 @@
 ---
 title: "PriceSmart"
-url: /zona-11/pricesmart/
+url: /mixco/pricesmart/
 shop: mayorista
 ---
