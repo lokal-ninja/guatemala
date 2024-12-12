@@ -1,6 +1,6 @@
 ---
 title: Fronteras
 url: /fronteras/
-latitude: 15.66
-longitude: -89.006
+latitude: 15.661
+longitude: -89.005
 ---
