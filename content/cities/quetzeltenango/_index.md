@@ -1,6 +1,6 @@
 ---
 title: Quetzeltenango
 url: /quetzeltenango/
-latitude: 14.832
-longitude: -91.551
+latitude: 14.847
+longitude: -91.54
 ---
