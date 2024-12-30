@@ -1,6 +1,6 @@
 ---
 title: Amatitlán
 url: /amatitlan/
-latitude: 14.48
-longitude: -90.619
+latitude: 14.488
+longitude: -90.622
 ---
