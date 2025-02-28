@@ -1,6 +1,6 @@
 ---
 title: Santa Lucia Cotzumalguapa
 url: /santa-lucia-cotzumalguapa/
-latitude: 14.33
-longitude: -91.019
+latitude: 14.332
+longitude: -91.023
 ---
