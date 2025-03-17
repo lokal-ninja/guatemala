@@ -1,5 +1,5 @@
 ---
 title: "Tienda La Surtidora"
-url: /mixco/tienda-la-surtidora-7a-avenida/
+url: /mixco/tienda-la-surtidora-4a-avenida/
 shop: quiosco
 ---
