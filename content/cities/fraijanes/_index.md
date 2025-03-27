@@ -1,6 +1,6 @@
 ---
 title: Fraijanes
 url: /fraijanes/
-latitude: 14.543
-longitude: -90.445
+latitude: 14.538
+longitude: -90.455
 ---
