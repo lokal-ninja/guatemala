@@ -1,5 +1,5 @@
 ---
-title: "Ciberneticos"
+title: "Cibernéticos"
 url: /escuintla/ciberneticos/
-shop: general
+shop: ordenador
 ---
