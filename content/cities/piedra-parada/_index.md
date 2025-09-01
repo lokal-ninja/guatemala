@@ -1,6 +1,6 @@
 ---
 title: Piedra Parada
 url: /piedra-parada/
-latitude: 14.555
-longitude: -90.456
+latitude: 14.552
+longitude: -90.454
 ---
