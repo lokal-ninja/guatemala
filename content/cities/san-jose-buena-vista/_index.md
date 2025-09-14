@@ -1,6 +1,6 @@
 ---
-title: San Jose Buena vista
+title: San Jose Buena Vista
 url: /san-jose-buena-vista/
-latitude: 15.758
-longitude: -89.099
+latitude: 15.767
+longitude: -89.109
 ---
