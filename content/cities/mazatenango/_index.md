@@ -1,6 +1,6 @@
 ---
 title: Mazatenango
 url: /mazatenango/
-latitude: 14.53
-longitude: -91.517
+latitude: 14.539
+longitude: -91.503
 ---
