@@ -1,5 +1,5 @@
 ---
-title: "Optica la Sexta"
+title: "Óptica La Sexta"
 url: /ciudad-de-guatemala/optica-la-sexta/
 shop: óptico
 ---
