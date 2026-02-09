@@ -1,6 +1,6 @@
 ---
 title: Villa Canales
 url: /villa-canales/
-latitude: 14.48
-longitude: -90.535
+latitude: 14.485
+longitude: -90.534
 ---
