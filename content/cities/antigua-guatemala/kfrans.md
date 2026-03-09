@@ -1,5 +1,5 @@
 ---
-title: "K'frans"
+title: "K'Frans"
 url: /antigua-guatemala/kfrans/
-shop: general
+shop: ropa
 ---
