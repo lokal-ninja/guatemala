@@ -1,5 +1,5 @@
 ---
-title: "Tienda La Bendición"
+title: "Tienda La Bendicion"
 url: /quetzaltenango/tienda-la-bendicion/
-shop: general
+shop: comodidad
 ---
