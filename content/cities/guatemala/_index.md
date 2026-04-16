@@ -1,6 +1,6 @@
 ---
 title: Guatemala
 url: /guatemala/
-latitude: 14.606
-longitude: -90.526
+latitude: 14.58
+longitude: -90.493
 ---
