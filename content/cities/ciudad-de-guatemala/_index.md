@@ -1,6 +1,6 @@
 ---
 title: Ciudad de Guatemala
 url: /ciudad-de-guatemala/
-latitude: 14.593
-longitude: -90.514
+latitude: 14.589
+longitude: -90.519
 ---
