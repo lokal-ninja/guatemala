@@ -1,6 +1,6 @@
 ---
 title: Puerta Parada
 url: /puerta-parada/
-latitude: 14.559
-longitude: -90.462
+latitude: 14.558
+longitude: -90.46
 ---
