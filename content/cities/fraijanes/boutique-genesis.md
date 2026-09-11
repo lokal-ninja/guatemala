@@ -1,5 +1,5 @@
 ---
-title: "Boutique Genesis"
+title: "Boutique Génesis"
 url: /fraijanes/boutique-genesis/
-shop: tienda
+shop: ropa
 ---

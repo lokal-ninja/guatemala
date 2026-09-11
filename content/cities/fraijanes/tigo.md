@@ -1,5 +1,5 @@
 ---
-title: "tigo"
+title: "Tigo"
 url: /fraijanes/tigo/
 shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Economica Familiar"
+title: "Económica Familiar"
 url: /fraijanes/economica-familiar/
 shop: general
 ---

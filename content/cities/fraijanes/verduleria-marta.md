@@ -1,5 +1,5 @@
 ---
-title: "Verduleria Marta"
+title: "Verdulería Marta"
 url: /fraijanes/verduleria-marta/
 shop: frutería
 ---

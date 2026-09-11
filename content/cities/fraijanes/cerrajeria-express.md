@@ -1,5 +1,5 @@
 ---
-title: "Cerrajeria Express"
+title: "Cerrajería Express"
 url: /fraijanes/cerrajeria-express/
 shop: cerrajero
 ---
