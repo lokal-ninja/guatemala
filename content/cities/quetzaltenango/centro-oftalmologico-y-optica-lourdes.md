@@ -1,5 +1,5 @@
 ---
-title: "Centro Oftalmológico y Optica Lourdes"
+title: "Centro Oftalmológico y Óptica Lourdes"
 url: /quetzaltenango/centro-oftalmologico-y-optica-lourdes/
 shop: óptico
 ---

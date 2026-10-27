@@ -1,5 +1,5 @@
 ---
-title: "Electronica Gonzalez"
+title: "Electrónica González"
 url: /quetzaltenango/electronica-gonzalez/
-shop: general
+shop: electrónica
 ---
