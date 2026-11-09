@@ -1,5 +1,5 @@
 ---
-title: "Libreria y Almacen Aury"
+title: "Librería y Almacén Aury"
 url: /villa-canales/libreria-y-almacen-aury/
 shop: general
 ---

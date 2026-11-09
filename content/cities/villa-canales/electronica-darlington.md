@@ -1,5 +1,5 @@
 ---
-title: "Electronica Darlington"
+title: "Electrónica Darlington"
 url: /villa-canales/electronica-darlington/
 shop: electrónica
 ---
